@@ -1,0 +1,1045 @@
+{
+  "mes": "2026-09",
+  "actualizado": "2026-09-30T13:04:32.791809+00:00",
+  "dias": {
+    "2026-08-31": {
+      "unidades": 1,
+      "ingreso_bruto": 18420.0,
+      "comision_total": 2947.0,
+      "envio_total": 1059.8,
+      "productos": {
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 18420.0,
+          "comision_total": 2947.0,
+          "envio_total": 1059.8
+        }
+      }
+    },
+    "2026-09-01": {
+      "unidades": 7,
+      "ingreso_bruto": 63044.0,
+      "comision_total": 10945.0,
+      "envio_total": 8106.8,
+      "productos": {
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3398.0,
+          "envio_total": 3050.0
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 18420.0,
+          "comision_total": 2947.0,
+          "envio_total": 1059.8
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Para Piscinas Deja Tu Piscina Cristalina",
+          "unidades": 4,
+          "ingreso_bruto": 20644.0,
+          "comision_total": 3922.0,
+          "envio_total": 3197.6
+        },
+        "MLC1931506337": {
+          "titulo_ejemplo": "Depiladora Portátil E Indolora De Lápiz Labial Facial, Depiladora Usb",
+          "unidades": 1,
+          "ingreso_bruto": 3990.0,
+          "comision_total": 678.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-09-02": {
+      "unidades": 15,
+      "ingreso_bruto": 162620.0,
+      "comision_total": 28330.0,
+      "envio_total": 23644.4,
+      "productos": {
+        "MLC3575463424": {
+          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
+          "unidades": 1,
+          "ingreso_bruto": 3686.0,
+          "comision_total": 627.0,
+          "envio_total": 799.4
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 5,
+          "ingreso_bruto": 99950.0,
+          "comision_total": 16990.0,
+          "envio_total": 15250.0
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 7,
+          "ingreso_bruto": 34384.0,
+          "comision_total": 6531.0,
+          "envio_total": 5595.8
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 2,
+          "ingreso_bruto": 24600.0,
+          "comision_total": 4182.0,
+          "envio_total": 1999.2
+        }
+      }
+    },
+    "2026-09-03": {
+      "unidades": 20,
+      "ingreso_bruto": 121224.0,
+      "comision_total": 21785.0,
+      "envio_total": 20489.2,
+      "productos": {
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 2,
+          "ingreso_bruto": 39980.0,
+          "comision_total": 6796.0,
+          "envio_total": 6100.0
+        },
+        "MLC1931506337": {
+          "titulo_ejemplo": "Depiladora Portátil E Indolora De Lápiz Labial Facial, Depiladora Usb",
+          "unidades": 1,
+          "ingreso_bruto": 3870.0,
+          "comision_total": 658.0,
+          "envio_total": 799.4
+        },
+        "MLC3575463424": {
+          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
+          "unidades": 5,
+          "ingreso_bruto": 18430.0,
+          "comision_total": 3135.0,
+          "envio_total": 3997.0
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 12,
+          "ingreso_bruto": 58944.0,
+          "comision_total": 11196.0,
+          "envio_total": 9592.8
+        }
+      }
+    },
+    "2026-09-04": {
+      "unidades": 13,
+      "ingreso_bruto": 108951.0,
+      "comision_total": 19436.0,
+      "envio_total": 16297.0,
+      "productos": {
+        "MLC1828487885": {
+          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 9,
+          "ingreso_bruto": 45760.0,
+          "comision_total": 8694.0,
+          "envio_total": 6347.6
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 3,
+          "ingreso_bruto": 59970.0,
+          "comision_total": 10194.0,
+          "envio_total": 9150.0
+        }
+      }
+    },
+    "2026-09-05": {
+      "unidades": 22,
+      "ingreso_bruto": 164224.0,
+      "comision_total": 29360.0,
+      "envio_total": 22508.7,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 17,
+          "ingreso_bruto": 88230.0,
+          "comision_total": 16762.0,
+          "envio_total": 11991.0
+        },
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 7724.0,
+          "comision_total": 1313.0,
+          "envio_total": 799.4
+        },
+        "212037": {
+          "titulo_ejemplo": "Clarificante Power Gel Astralpool Para Piscinas 7 Unidades Rosa Chicle",
+          "unidades": 1,
+          "ingreso_bruto": 15990.0,
+          "comision_total": 2398.0,
+          "envio_total": 2618.7
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 2,
+          "ingreso_bruto": 39980.0,
+          "comision_total": 6796.0,
+          "envio_total": 6100.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
+        }
+      }
+    },
+    "2026-09-06": {
+      "unidades": 64,
+      "ingreso_bruto": 380686.0,
+      "comision_total": 77365.0,
+      "envio_total": 52104.9,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Para Piscinas Deja Tu Piscina Cristalina",
+          "unidades": 58,
+          "ingreso_bruto": 308720.0,
+          "comision_total": 65052.0,
+          "envio_total": 42777.2
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 2,
+          "ingreso_bruto": 39980.0,
+          "comision_total": 6796.0,
+          "envio_total": 6100.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 3,
+          "ingreso_bruto": 23985.0,
+          "comision_total": 4077.0,
+          "envio_total": 2398.2
+        },
+        "MLC4105694310": {
+          "titulo_ejemplo": "Maquina Selladora Al Vacío Sellar Alimentos + 10 Bolsas Negro",
+          "unidades": 1,
+          "ingreso_bruto": 8001.0,
+          "comision_total": 1440.0,
+          "envio_total": 829.5
+        }
+      }
+    },
+    "2026-09-07": {
+      "unidades": 3,
+      "ingreso_bruto": 23135.0,
+      "comision_total": 3933.0,
+      "envio_total": 2398.2,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 2,
+          "ingreso_bruto": 15990.0,
+          "comision_total": 2718.0,
+          "envio_total": 1598.8
+        },
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 7145.0,
+          "comision_total": 1215.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-09-08": {
+      "unidades": 17,
+      "ingreso_bruto": 181282.0,
+      "comision_total": 34543.0,
+      "envio_total": 44599.1,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 13,
+          "ingreso_bruto": 129870.0,
+          "comision_total": 24674.0,
+          "envio_total": 39650.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 1,
+          "ingreso_bruto": 7626.0,
+          "comision_total": 1296.0,
+          "envio_total": 799.4
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3398.0,
+          "envio_total": 3050.0
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        },
+        "MLC3859334278": {
+          "titulo_ejemplo": "Hub 8 En 2 Puertos Usb C/usb2/3/sd/tf/jack Mac Notebook Pc Color Gris",
+          "unidades": 1,
+          "ingreso_bruto": 10806.0,
+          "comision_total": 2837.0,
+          "envio_total": 0.0
+        }
+      }
+    },
+    "2026-09-09": {
+      "unidades": 71,
+      "ingreso_bruto": 412114.0,
+      "comision_total": 102394.0,
+      "envio_total": 43529.3,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 66,
+          "ingreso_bruto": 369638.0,
+          "comision_total": 95044.0,
+          "envio_total": 39232.0
+        },
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 2,
+          "ingreso_bruto": 13865.0,
+          "comision_total": 2357.0,
+          "envio_total": 1598.8
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 2,
+          "ingreso_bruto": 15621.0,
+          "comision_total": 2655.0,
+          "envio_total": 1598.8
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        }
+      }
+    },
+    "2026-09-10": {
+      "unidades": 7,
+      "ingreso_bruto": 67864.0,
+      "comision_total": 12609.0,
+      "envio_total": 14898.5,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 5,
+          "ingreso_bruto": 47150.0,
+          "comision_total": 8958.0,
+          "envio_total": 12999.4
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        },
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 7724.0,
+          "comision_total": 1313.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-09-11": {
+      "unidades": 13,
+      "ingreso_bruto": 151523.0,
+      "comision_total": 27481.0,
+      "envio_total": 18345.2,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 7,
+          "ingreso_bruto": 81930.0,
+          "comision_total": 15566.0,
+          "envio_total": 9047.6
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 2,
+          "ingreso_bruto": 39980.0,
+          "comision_total": 6796.0,
+          "envio_total": 6100.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 1,
+          "ingreso_bruto": 7549.0,
+          "comision_total": 1283.0,
+          "envio_total": 799.4
+        },
+        "MLC1953728953": {
+          "titulo_ejemplo": "Hub Adaptador Usb Tipo C 8 En 2 Para Mac Macbook Windows 7en1",
+          "unidades": 2,
+          "ingreso_bruto": 13564.0,
+          "comision_total": 2306.0,
+          "envio_total": 1598.8
+        },
+        "4402020201": {
+          "titulo_ejemplo": "Rejilla Dreno 2 Piscina Desagüe Fondo Alta Resistencia",
+          "unidades": 1,
+          "ingreso_bruto": 8500.0,
+          "comision_total": 1530.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-09-12": {
+      "unidades": 2,
+      "ingreso_bruto": 13054.0,
+      "comision_total": 2219.0,
+      "envio_total": 1598.8,
+      "productos": {
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 2,
+          "ingreso_bruto": 13054.0,
+          "comision_total": 2219.0,
+          "envio_total": 1598.8
+        }
+      }
+    },
+    "2026-09-13": {
+      "unidades": 10,
+      "ingreso_bruto": 111445.0,
+      "comision_total": 20346.0,
+      "envio_total": 13596.3,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 6,
+          "ingreso_bruto": 63940.0,
+          "comision_total": 12148.0,
+          "envio_total": 7847.8
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 2,
+          "ingreso_bruto": 15175.0,
+          "comision_total": 2579.0,
+          "envio_total": 1598.8
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12340.0,
+          "comision_total": 2221.0,
+          "envio_total": 1099.7
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3398.0,
+          "envio_total": 3050.0
+        }
+      }
+    },
+    "2026-09-14": {
+      "unidades": 40,
+      "ingreso_bruto": 258618.0,
+      "comision_total": 56607.0,
+      "envio_total": 23174.9,
+      "productos": {
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5690.0,
+          "comision_total": 967.0,
+          "envio_total": 809.9
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 3,
+          "ingreso_bruto": 56970.0,
+          "comision_total": 9114.0,
+          "envio_total": 3179.4
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 34,
+          "ingreso_bruto": 180860.0,
+          "comision_total": 43960.0,
+          "envio_total": 17586.8
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 2,
+          "ingreso_bruto": 15098.0,
+          "comision_total": 2566.0,
+          "envio_total": 1598.8
+        }
+      }
+    },
+    "2026-09-15": {
+      "unidades": 21,
+      "ingreso_bruto": 153560.0,
+      "comision_total": 26843.0,
+      "envio_total": 19298.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 9,
+          "ingreso_bruto": 46620.0,
+          "comision_total": 8857.0,
+          "envio_total": 7194.6
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 18990.0,
+          "comision_total": 3038.0,
+          "envio_total": 1059.8
+        },
+        "MLC3575463424": {
+          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
+          "unidades": 1,
+          "ingreso_bruto": 2506.0,
+          "comision_total": 426.0,
+          "envio_total": 799.4
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3398.0,
+          "envio_total": 3050.0
+        },
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 3,
+          "ingreso_bruto": 20160.0,
+          "comision_total": 3426.0,
+          "envio_total": 2398.2
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 6,
+          "ingreso_bruto": 45294.0,
+          "comision_total": 7698.0,
+          "envio_total": 4796.4
+        }
+      }
+    },
+    "2026-09-16": {
+      "unidades": 19,
+      "ingreso_bruto": 144419.0,
+      "comision_total": 25918.0,
+      "envio_total": 19950.2,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 15,
+          "ingreso_bruto": 77900.0,
+          "comision_total": 14801.0,
+          "envio_total": 11991.0
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 18990.0,
+          "comision_total": 3038.0,
+          "envio_total": 1059.8
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 2,
+          "ingreso_bruto": 39980.0,
+          "comision_total": 6796.0,
+          "envio_total": 6100.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 1,
+          "ingreso_bruto": 7549.0,
+          "comision_total": 1283.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-09-17": {
+      "unidades": 6,
+      "ingreso_bruto": 95058.0,
+      "comision_total": 16158.0,
+      "envio_total": 13798.8,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+          "unidades": 2,
+          "ingreso_bruto": 15098.0,
+          "comision_total": 2566.0,
+          "envio_total": 1598.8
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 4,
+          "ingreso_bruto": 79960.0,
+          "comision_total": 13592.0,
+          "envio_total": 12200.0
+        }
+      }
+    },
+    "2026-09-18": {
+      "unidades": 5,
+      "ingreso_bruto": 49140.0,
+      "comision_total": 8558.0,
+      "envio_total": 6277.7,
+      "productos": {
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3398.0,
+          "envio_total": 3050.0
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 6500.0,
+          "comision_total": 1235.0,
+          "envio_total": 799.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 2,
+          "ingreso_bruto": 15098.0,
+          "comision_total": 2566.0,
+          "envio_total": 1598.8
+        },
+        "MLC4128071080": {
+          "titulo_ejemplo": "Maquina Selladora Al Vacío Alimentos Sellador + Bolsas Color Negro Transparente",
+          "unidades": 1,
+          "ingreso_bruto": 7552.0,
+          "comision_total": 1359.0,
+          "envio_total": 829.5
+        }
+      }
+    },
+    "2026-09-19": {
+      "unidades": 5,
+      "ingreso_bruto": 33549.0,
+      "comision_total": 6223.0,
+      "envio_total": 3997.0,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 7549.0,
+          "comision_total": 1283.0,
+          "envio_total": 799.4
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 4,
+          "ingreso_bruto": 26000.0,
+          "comision_total": 4940.0,
+          "envio_total": 3197.6
+        }
+      }
+    },
+    "2026-09-20": {
+      "unidades": 9,
+      "ingreso_bruto": 79441.0,
+      "comision_total": 13873.0,
+      "envio_total": 8095.5,
+      "productos": {
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 3,
+          "ingreso_bruto": 19774.0,
+          "comision_total": 3361.0,
+          "envio_total": 2398.2
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 3,
+          "ingreso_bruto": 22647.0,
+          "comision_total": 3849.0,
+          "envio_total": 2398.2
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 3,
+          "ingreso_bruto": 37020.0,
+          "comision_total": 6663.0,
+          "envio_total": 3299.1
+        }
+      }
+    },
+    "2026-09-21": {
+      "unidades": 16,
+      "ingreso_bruto": 119314.0,
+      "comision_total": 28474.0,
+      "envio_total": 6066.9,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 9,
+          "ingreso_bruto": 58500.0,
+          "comision_total": 18315.0,
+          "envio_total": 0.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 4,
+          "ingreso_bruto": 34716.0,
+          "comision_total": 5901.0,
+          "envio_total": 3397.8
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 17859.0,
+          "comision_total": 2857.0,
+          "envio_total": 1059.8
+        },
+        "MLC3575463424": {
+          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
+          "unidades": 1,
+          "ingreso_bruto": 3018.0,
+          "comision_total": 513.0,
+          "envio_total": 799.4
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5221.0,
+          "comision_total": 888.0,
+          "envio_total": 809.9
+        }
+      }
+    },
+    "2026-09-22": {
+      "unidades": 13,
+      "ingreso_bruto": 100449.0,
+      "comision_total": 20446.0,
+      "envio_total": 10794.8,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 9,
+          "ingreso_bruto": 58500.0,
+          "comision_total": 13515.0,
+          "envio_total": 4796.4
+        },
+        "MLC3575463424": {
+          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
+          "unidades": 1,
+          "ingreso_bruto": 3018.0,
+          "comision_total": 513.0,
+          "envio_total": 799.4
+        },
+        "MLC1953728953": {
+          "titulo_ejemplo": "Hub Adaptador Usb Tipo C 8 En 2 Para Mac Macbook Windows 7en1",
+          "unidades": 1,
+          "ingreso_bruto": 6641.0,
+          "comision_total": 1129.0,
+          "envio_total": 799.4
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
+        }
+      }
+    },
+    "2026-09-23": {
+      "unidades": 9,
+      "ingreso_bruto": 98218.0,
+      "comision_total": 16415.0,
+      "envio_total": 10156.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 3,
+          "ingreso_bruto": 19500.0,
+          "comision_total": 3705.0,
+          "envio_total": 2398.2
+        },
+        "MLC4101805642": {
+          "titulo_ejemplo": "Válvula Bola Pvc Unión Americana Soldar 50mm Marca",
+          "unidades": 1,
+          "ingreso_bruto": 16414.0,
+          "comision_total": 2298.0,
+          "envio_total": 1039.5
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5221.0,
+          "comision_total": 888.0,
+          "envio_total": 809.9
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 2,
+          "ingreso_bruto": 19234.0,
+          "comision_total": 3269.0,
+          "envio_total": 1799.0
+        },
+        "CarP2026001": {
+          "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3398.0,
+          "envio_total": 3050.0
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 17859.0,
+          "comision_total": 2857.0,
+          "envio_total": 1059.8
+        }
+      }
+    },
+    "2026-09-24": {
+      "unidades": 10,
+      "ingreso_bruto": 95965.0,
+      "comision_total": 17023.0,
+      "envio_total": 11295.3,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 2,
+          "ingreso_bruto": 23985.0,
+          "comision_total": 4077.0,
+          "envio_total": 1999.2
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 6,
+          "ingreso_bruto": 39000.0,
+          "comision_total": 7410.0,
+          "envio_total": 4796.4
+        }
+      }
+    },
+    "2026-09-25": {
+      "unidades": 15,
+      "ingreso_bruto": 97627.0,
+      "comision_total": 17896.0,
+      "envio_total": 12391.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 10,
+          "ingreso_bruto": 65000.0,
+          "comision_total": 12350.0,
+          "envio_total": 7994.0
+        },
+        "MLC1828487885": {
+          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
+        },
+        "MLC3575463424": {
+          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
+          "unidades": 1,
+          "ingreso_bruto": 3018.0,
+          "comision_total": 513.0,
+          "envio_total": 799.4
+        },
+        "MLC3575670596": {
+          "titulo_ejemplo": "Adaptador Usb Tipo C Hembra A Usb Macho 2 Pcs Black Convertidor Black/black",
+          "unidades": 1,
+          "ingreso_bruto": 3018.0,
+          "comision_total": 513.0,
+          "envio_total": 799.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 2,
+          "ingreso_bruto": 23370.0,
+          "comision_total": 3972.0,
+          "envio_total": 1999.2
+        }
+      }
+    },
+    "2026-09-26": {
+      "unidades": 22,
+      "ingreso_bruto": 143050.0,
+      "comision_total": 26451.0,
+      "envio_total": 16490.7,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 20,
+          "ingreso_bruto": 110070.0,
+          "comision_total": 20915.0,
+          "envio_total": 11991.0
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        }
+      }
+    },
+    "2026-09-27": {
+      "unidades": 18,
+      "ingreso_bruto": 101669.0,
+      "comision_total": 19074.0,
+      "envio_total": 14589.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 17,
+          "ingreso_bruto": 89369.0,
+          "comision_total": 16983.0,
+          "envio_total": 13589.8
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
+        }
+      }
+    },
+    "2026-09-28": {
+      "unidades": 25,
+      "ingreso_bruto": 173577.0,
+      "comision_total": 37098.0,
+      "envio_total": 19890.7,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 21,
+          "ingreso_bruto": 112883.0,
+          "comision_total": 27051.0,
+          "envio_total": 11191.6
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 2,
+          "ingreso_bruto": 39980.0,
+          "comision_total": 6396.0,
+          "envio_total": 6800.0
+        },
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 7724.0,
+          "comision_total": 1313.0,
+          "envio_total": 799.4
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        }
+      }
+    },
+    "2026-09-29": {
+      "unidades": 20,
+      "ingreso_bruto": 128159.0,
+      "comision_total": 27507.0,
+      "envio_total": 14791.8,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 18,
+          "ingreso_bruto": 95869.0,
+          "comision_total": 22218.0,
+          "envio_total": 10392.2
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
+        }
+      }
+    },
+    "2026-09-30": {
+      "unidades": 2,
+      "ingreso_bruto": 25290.0,
+      "comision_total": 4429.0,
+      "envio_total": 2099.3,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        }
+      }
+    }
+  }
+}
