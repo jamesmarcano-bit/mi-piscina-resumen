@@ -1,91 +1,147 @@
 {
-  "actualizado": "2026-09-30T12:47:19.724516+00:00",
+  "actualizado": "2026-09-30T13:04:31.632378+00:00",
   "productos": {
-    "8IN1": {
-      "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_7d": 10,
-      "ordenes_7d": 10,
-      "precio_promedio": 11578.9,
-      "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 979.6
-    },
-    "0039KTCMM": {
-      "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_7d": 96,
-      "ordenes_7d": 39,
-      "precio_promedio": 5606.2,
-      "comision_pct_promedio": 20.79,
-      "envio_promedio_por_unidad": 657.8
-    },
-    "MLC4101805642": {
-      "titulo_ejemplo": "Válvula Bola Pvc Unión Americana Soldar 50mm Marca",
-      "unidades_7d": 1,
-      "ordenes_7d": 1,
-      "precio_promedio": 16414.0,
-      "comision_pct_promedio": 14.0,
-      "envio_promedio_por_unidad": 1039.5
-    },
-    "MLC4105682984": {
-      "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
-      "unidades_7d": 1,
-      "ordenes_7d": 1,
-      "precio_promedio": 5221.0,
-      "comision_pct_promedio": 17.01,
-      "envio_promedio_por_unidad": 809.9
+    "MLC2147897321": {
+      "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+      "unidades_mtd": 15,
+      "ordenes_mtd": 15,
+      "precio_promedio": 19163.2,
+      "comision_pct_promedio": 16.0,
+      "envio_promedio_por_unidad": 1995.9
     },
     "CarP2026001": {
       "titulo_ejemplo": "Mini Adaptador Inalámbrico Carplay Y Android Auto 2 En 1, Con Conexión Usb O Usb-c",
-      "unidades_7d": 1,
-      "ordenes_7d": 1,
+      "unidades_mtd": 28,
+      "ordenes_mtd": 27,
       "precio_promedio": 19990.0,
       "comision_pct_promedio": 17.0,
       "envio_promedio_por_unidad": 3050.0
     },
-    "MLC2147897321": {
-      "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
-      "unidades_7d": 6,
-      "ordenes_7d": 6,
-      "precio_promedio": 19634.8,
-      "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 3010.0
+    "0039KTCMM": {
+      "titulo_ejemplo": "Clarificante Para Piscinas Deja Tu Piscina Cristalina",
+      "unidades_mtd": 380,
+      "ordenes_mtd": 149,
+      "precio_promedio": 5883.6,
+      "comision_pct_promedio": 21.68,
+      "envio_promedio_por_unidad": 783.6
     },
-    "MLC2016102485": {
-      "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
-      "unidades_7d": 4,
-      "ordenes_7d": 4,
-      "precio_promedio": 12990.0,
-      "comision_pct_promedio": 18.0,
-      "envio_promedio_por_unidad": 1099.7
-    },
-    "MLC1828487885": {
-      "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
-      "unidades_7d": 1,
-      "ordenes_7d": 1,
-      "precio_promedio": 3221.0,
-      "comision_pct_promedio": 17.01,
+    "MLC1931506337": {
+      "titulo_ejemplo": "Depiladora Portátil E Indolora De Lápiz Labial Facial, Depiladora Usb",
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
+      "precio_promedio": 3930.0,
+      "comision_pct_promedio": 17.0,
       "envio_promedio_por_unidad": 799.4
     },
     "MLC3575463424": {
       "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
-      "unidades_7d": 1,
-      "ordenes_7d": 1,
-      "precio_promedio": 3018.0,
-      "comision_pct_promedio": 17.0,
+      "unidades_mtd": 10,
+      "ordenes_mtd": 6,
+      "precio_promedio": 3367.6,
+      "comision_pct_promedio": 17.01,
       "envio_promedio_por_unidad": 799.4
     },
-    "MLC3575670596": {
-      "titulo_ejemplo": "Adaptador Usb Tipo C Hembra A Usb Macho 2 Pcs Black Convertidor Black/black",
-      "unidades_7d": 1,
-      "ordenes_7d": 1,
-      "precio_promedio": 3018.0,
+    "8IN1": {
+      "titulo_ejemplo": "Hub Usb C 3.0 8 En 1 Derocha Adaptador Plateado Hdmi Sd Multiconexión",
+      "unidades_mtd": 45,
+      "ordenes_mtd": 41,
+      "precio_promedio": 8926.3,
       "comision_pct_promedio": 17.0,
+      "envio_promedio_por_unidad": 857.2
+    },
+    "MLC1828487885": {
+      "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
+      "precio_promedio": 3221.0,
+      "comision_pct_promedio": 17.01,
       "envio_promedio_por_unidad": 799.4
     },
     "MLC3878509334": {
       "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
-      "unidades_7d": 1,
-      "ordenes_7d": 1,
-      "precio_promedio": 7724.0,
+      "unidades_mtd": 14,
+      "ordenes_mtd": 13,
+      "precio_promedio": 6940.7,
+      "comision_pct_promedio": 17.0,
+      "envio_promedio_por_unidad": 799.4
+    },
+    "212037": {
+      "titulo_ejemplo": "Clarificante Power Gel Astralpool Para Piscinas 7 Unidades Rosa Chicle",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 15990.0,
+      "comision_pct_promedio": 15.0,
+      "envio_promedio_por_unidad": 2618.7
+    },
+    "MLC4105694310": {
+      "titulo_ejemplo": "Maquina Selladora Al Vacío Sellar Alimentos + 10 Bolsas Negro",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 8001.0,
+      "comision_pct_promedio": 18.0,
+      "envio_promedio_por_unidad": 829.5
+    },
+    "MLC2016102485": {
+      "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+      "unidades_mtd": 11,
+      "ordenes_mtd": 10,
+      "precio_promedio": 12753.6,
+      "comision_pct_promedio": 18.0,
+      "envio_promedio_por_unidad": 1099.7
+    },
+    "MLC3859334278": {
+      "titulo_ejemplo": "Hub 8 En 2 Puertos Usb C/usb2/3/sd/tf/jack Mac Notebook Pc Color Gris",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 10806.0,
+      "comision_pct_promedio": 26.25,
+      "envio_promedio_por_unidad": 0.0
+    },
+    "MLC1953728953": {
+      "titulo_ejemplo": "Hub Adaptador Usb Tipo C 8 En 2 Para Mac Macbook Windows 7en1",
+      "unidades_mtd": 3,
+      "ordenes_mtd": 3,
+      "precio_promedio": 6735.0,
+      "comision_pct_promedio": 17.0,
+      "envio_promedio_por_unidad": 799.4
+    },
+    "4402020201": {
+      "titulo_ejemplo": "Rejilla Dreno 2 Piscina Desagüe Fondo Alta Resistencia",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 8500.0,
+      "comision_pct_promedio": 18.0,
+      "envio_promedio_por_unidad": 799.4
+    },
+    "MLC4105682984": {
+      "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+      "unidades_mtd": 3,
+      "ordenes_mtd": 3,
+      "precio_promedio": 5377.3,
+      "comision_pct_promedio": 17.0,
+      "envio_promedio_por_unidad": 809.9
+    },
+    "MLC4128071080": {
+      "titulo_ejemplo": "Maquina Selladora Al Vacío Alimentos Sellador + Bolsas Color Negro Transparente",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 7552.0,
+      "comision_pct_promedio": 18.0,
+      "envio_promedio_por_unidad": 829.5
+    },
+    "MLC4101805642": {
+      "titulo_ejemplo": "Válvula Bola Pvc Unión Americana Soldar 50mm Marca",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 16414.0,
+      "comision_pct_promedio": 14.0,
+      "envio_promedio_por_unidad": 1039.5
+    },
+    "MLC3575670596": {
+      "titulo_ejemplo": "Adaptador Usb Tipo C Hembra A Usb Macho 2 Pcs Black Convertidor Black/black",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 3018.0,
       "comision_pct_promedio": 17.0,
       "envio_promedio_por_unidad": 799.4
     }
