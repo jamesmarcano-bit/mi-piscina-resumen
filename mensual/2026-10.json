@@ -1,0 +1,28 @@
+{
+  "mes": "2026-10",
+  "actualizado": "2026-10-01T13:16:19.922412+00:00",
+  "dias": {
+    "2026-10-01": {
+      "unidades": 2,
+      "ingreso_bruto": 32980.0,
+      "comision_total": 5536.0,
+      "envio_total": 4499.7,
+      "productos": {
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2338.0,
+          "envio_total": 1099.7
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
+        }
+      }
+    }
+  }
+}
