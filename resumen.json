@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T13:16:18.353847+00:00",
+  "actualizado": "2026-10-02T13:13:56.958781+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -16,6 +16,30 @@
       "precio_promedio": 19990.0,
       "comision_pct_promedio": 16.0,
       "envio_promedio_por_unidad": 3400.0
+    },
+    "0039KTCMM": {
+      "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+      "unidades_mtd": 6,
+      "ordenes_mtd": 3,
+      "precio_promedio": 6500.0,
+      "comision_pct_promedio": 25.15,
+      "envio_promedio_por_unidad": 399.7
+    },
+    "MLC1828487885": {
+      "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+      "unidades_mtd": 3,
+      "ordenes_mtd": 1,
+      "precio_promedio": 3221.0,
+      "comision_pct_promedio": 17.01,
+      "envio_promedio_por_unidad": 799.4
+    },
+    "8IN1": {
+      "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
+      "precio_promedio": 12300.0,
+      "comision_pct_promedio": 17.0,
+      "envio_promedio_por_unidad": 999.6
     }
   }
 }
