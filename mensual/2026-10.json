@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-02T13:13:58.331260+00:00",
+  "actualizado": "2026-10-03T11:42:29.915731+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 13,
@@ -42,6 +42,35 @@
           "ingreso_bruto": 24600.0,
           "comision_total": 4182.0,
           "envio_total": 1999.2
+        }
+      }
+    },
+    "2026-10-02": {
+      "unidades": 21,
+      "ingreso_bruto": 167390.0,
+      "comision_total": 30466.0,
+      "envio_total": 19988.6,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 3,
+          "ingreso_bruto": 36900.0,
+          "comision_total": 6273.0,
+          "envio_total": 2998.8
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 17,
+          "ingreso_bruto": 110500.0,
+          "comision_total": 20995.0,
+          "envio_total": 13589.8
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
         }
       }
     }
