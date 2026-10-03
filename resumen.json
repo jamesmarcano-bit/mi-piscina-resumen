@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T12:14:17.064477+00:00",
+  "actualizado": "2026-10-03T18:18:50.373914+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -19,11 +19,11 @@
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 23,
-      "ordenes_mtd": 8,
+      "unidades_mtd": 24,
+      "ordenes_mtd": 9,
       "precio_promedio": 6500.0,
-      "comision_pct_promedio": 20.61,
-      "envio_promedio_por_unidad": 1018.1
+      "comision_pct_promedio": 20.54,
+      "envio_promedio_por_unidad": 1051.6
     },
     "MLC1828487885": {
       "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
