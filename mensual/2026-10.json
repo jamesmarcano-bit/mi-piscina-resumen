@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-03T12:09:55.384164+00:00",
+  "actualizado": "2026-10-03T12:14:18.147160+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 13,
@@ -49,7 +49,7 @@
       "unidades": 21,
       "ingreso_bruto": 167390.0,
       "comision_total": 30466.0,
-      "envio_total": 19988.6,
+      "envio_total": 27417.6,
       "productos": {
         "8IN1": {
           "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -63,7 +63,7 @@
           "unidades": 17,
           "ingreso_bruto": 110500.0,
           "comision_total": 20995.0,
-          "envio_total": 13589.8
+          "envio_total": 21018.8
         },
         "MLC2147897321": {
           "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
