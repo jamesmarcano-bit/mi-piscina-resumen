@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-03T18:18:51.593881+00:00",
+  "actualizado": "2026-10-04T18:20:55.914179+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 13,
@@ -75,17 +75,39 @@
       }
     },
     "2026-10-03": {
-      "unidades": 1,
-      "ingreso_bruto": 6500.0,
-      "comision_total": 1235.0,
-      "envio_total": 1821.4,
+      "unidades": 4,
+      "ingreso_bruto": 27224.0,
+      "comision_total": 5018.0,
+      "envio_total": 4219.6,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 3,
+          "ingreso_bruto": 19500.0,
+          "comision_total": 3705.0,
+          "envio_total": 3420.2
+        },
+        "MLC3878509334": {
+          "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
           "unidades": 1,
-          "ingreso_bruto": 6500.0,
-          "comision_total": 1235.0,
-          "envio_total": 1821.4
+          "ingreso_bruto": 7724.0,
+          "comision_total": 1313.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-10-04": {
+      "unidades": 1,
+      "ingreso_bruto": 19990.0,
+      "comision_total": 3198.0,
+      "envio_total": 3400.0,
+      "productos": {
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
         }
       }
     }
