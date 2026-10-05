@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-04T18:20:55.914179+00:00",
+  "actualizado": "2026-10-05T13:17:10.366530+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 13,
@@ -97,10 +97,10 @@
       }
     },
     "2026-10-04": {
-      "unidades": 1,
-      "ingreso_bruto": 19990.0,
-      "comision_total": 3198.0,
-      "envio_total": 3400.0,
+      "unidades": 3,
+      "ingreso_bruto": 32990.0,
+      "comision_total": 5668.0,
+      "envio_total": 10188.8,
       "productos": {
         "MLC2147897321": {
           "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
@@ -108,6 +108,28 @@
           "ingreso_bruto": 19990.0,
           "comision_total": 3198.0,
           "envio_total": 3400.0
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 2,
+          "ingreso_bruto": 13000.0,
+          "comision_total": 2470.0,
+          "envio_total": 6788.8
+        }
+      }
+    },
+    "2026-10-05": {
+      "unidades": 1,
+      "ingreso_bruto": 3221.0,
+      "comision_total": 548.0,
+      "envio_total": 2794.4,
+      "productos": {
+        "MLC1828487885": {
+          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 2794.4
         }
       }
     }
