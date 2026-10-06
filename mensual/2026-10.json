@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-05T13:17:10.366530+00:00",
+  "actualizado": "2026-10-06T13:14:20.963387+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 13,
@@ -119,10 +119,10 @@
       }
     },
     "2026-10-05": {
-      "unidades": 1,
-      "ingreso_bruto": 3221.0,
-      "comision_total": 548.0,
-      "envio_total": 2794.4,
+      "unidades": 17,
+      "ingreso_bruto": 118158.0,
+      "comision_total": 29417.0,
+      "envio_total": 8231.3,
       "productos": {
         "MLC1828487885": {
           "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
@@ -130,6 +130,49 @@
           "ingreso_bruto": 3221.0,
           "comision_total": 548.0,
           "envio_total": 2794.4
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 18420.0,
+          "comision_total": 2947.0,
+          "envio_total": 1059.8
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 13,
+          "ingreso_bruto": 84500.0,
+          "comision_total": 24055.0,
+          "envio_total": 2398.2
+        },
+        "MLC3528199678": {
+          "titulo_ejemplo": "Adaptador Usb Macbook Otg 4 Puertos Plateado 3.0 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
+        },
+        "MLC4111973712": {
+          "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
+          "unidades": 1,
+          "ingreso_bruto": 8796.0,
+          "comision_total": 1319.0,
+          "envio_total": 1179.5
+        }
+      }
+    },
+    "2026-10-06": {
+      "unidades": 1,
+      "ingreso_bruto": 12600.0,
+      "comision_total": 2268.0,
+      "envio_total": 1099.7,
+      "productos": {
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12600.0,
+          "comision_total": 2268.0,
+          "envio_total": 1099.7
         }
       }
     }
