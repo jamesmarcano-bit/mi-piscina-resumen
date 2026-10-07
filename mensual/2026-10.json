@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-06T13:14:20.963387+00:00",
+  "actualizado": "2026-10-07T13:16:23.628706+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 13,
@@ -162,6 +162,56 @@
       }
     },
     "2026-10-06": {
+      "unidades": 7,
+      "ingreso_bruto": 54495.0,
+      "comision_total": 9520.0,
+      "envio_total": 10297.0,
+      "productos": {
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 12600.0,
+          "comision_total": 2268.0,
+          "envio_total": 1099.7
+        },
+        "MLC3575463424": {
+          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
+          "unidades": 1,
+          "ingreso_bruto": 2502.0,
+          "comision_total": 425.0,
+          "envio_total": 799.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub Usb 3.0 8 En 1 Derocha Plateado Adaptador Múltiple Plateado",
+          "unidades": 2,
+          "ingreso_bruto": 23862.0,
+          "comision_total": 4056.0,
+          "envio_total": 1999.2
+        },
+        "MLC3528199678": {
+          "titulo_ejemplo": "Adaptador Usb Macbook Otg 4 Puertos Plateado 3.0 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5810.0,
+          "comision_total": 988.0,
+          "envio_total": 4799.9
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 6500.0,
+          "comision_total": 1235.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-10-07": {
       "unidades": 1,
       "ingreso_bruto": 12600.0,
       "comision_total": 2268.0,
