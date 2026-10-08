@@ -1,12 +1,12 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-07T13:16:23.628706+00:00",
+  "actualizado": "2026-10-08T13:17:20.901694+00:00",
   "dias": {
     "2026-10-01": {
-      "unidades": 13,
-      "ingreso_bruto": 106243.0,
-      "comision_total": 21172.0,
-      "envio_total": 11295.3,
+      "unidades": 10,
+      "ingreso_bruto": 96580.0,
+      "comision_total": 19528.0,
+      "envio_total": 8897.1,
       "productos": {
         "MLC2016102485": {
           "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -27,13 +27,6 @@
           "unidades": 6,
           "ingreso_bruto": 39000.0,
           "comision_total": 9810.0,
-          "envio_total": 2398.2
-        },
-        "MLC1828487885": {
-          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
-          "unidades": 3,
-          "ingreso_bruto": 9663.0,
-          "comision_total": 1644.0,
           "envio_total": 2398.2
         },
         "8IN1": {
@@ -162,10 +155,10 @@
       }
     },
     "2026-10-06": {
-      "unidades": 7,
-      "ingreso_bruto": 54495.0,
-      "comision_total": 9520.0,
-      "envio_total": 10297.0,
+      "unidades": 5,
+      "ingreso_bruto": 48772.0,
+      "comision_total": 8547.0,
+      "envio_total": 8698.2,
       "productos": {
         "MLC2016102485": {
           "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -174,26 +167,12 @@
           "comision_total": 2268.0,
           "envio_total": 1099.7
         },
-        "MLC3575463424": {
-          "titulo_ejemplo": "Adaptador Usb-b A Type-c Color Plata 3 Cm Black+sliver",
-          "unidades": 1,
-          "ingreso_bruto": 2502.0,
-          "comision_total": 425.0,
-          "envio_total": 799.4
-        },
         "8IN1": {
           "titulo_ejemplo": "Hub Usb 3.0 8 En 1 Derocha Plateado Adaptador Múltiple Plateado",
           "unidades": 2,
           "ingreso_bruto": 23862.0,
           "comision_total": 4056.0,
           "envio_total": 1999.2
-        },
-        "MLC3528199678": {
-          "titulo_ejemplo": "Adaptador Usb Macbook Otg 4 Puertos Plateado 3.0 Plateado",
-          "unidades": 1,
-          "ingreso_bruto": 3221.0,
-          "comision_total": 548.0,
-          "envio_total": 799.4
         },
         "MLC4105682984": {
           "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
@@ -212,10 +191,10 @@
       }
     },
     "2026-10-07": {
-      "unidades": 1,
-      "ingreso_bruto": 12600.0,
-      "comision_total": 2268.0,
-      "envio_total": 1099.7,
+      "unidades": 13,
+      "ingreso_bruto": 211581.0,
+      "comision_total": 40752.0,
+      "envio_total": 21956.1,
       "productos": {
         "MLC2016102485": {
           "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -223,6 +202,34 @@
           "ingreso_bruto": 12600.0,
           "comision_total": 2268.0,
           "envio_total": 1099.7
+        },
+        "R0638600": {
+          "titulo_ejemplo": "Filtro Robot Zodiac Ultrafino 60 Micras Original Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 95000.0,
+          "comision_total": 18050.0,
+          "envio_total": 5200.0
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 3,
+          "ingreso_bruto": 55260.0,
+          "comision_total": 8841.0,
+          "envio_total": 7669.4
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 7,
+          "ingreso_bruto": 45500.0,
+          "comision_total": 11045.0,
+          "envio_total": 7187.6
+        },
+        "MLC3528199678": {
+          "titulo_ejemplo": "Adaptador Usb Macbook Otg 4 Puertos Plateado 3.0 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
         }
       }
     }
