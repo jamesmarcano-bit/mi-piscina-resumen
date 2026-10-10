@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-09T13:16:13.767281+00:00",
+  "actualizado": "2026-10-10T13:12:00.023012+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -112,10 +112,10 @@
       }
     },
     "2026-10-05": {
-      "unidades": 17,
-      "ingreso_bruto": 118158.0,
-      "comision_total": 29417.0,
-      "envio_total": 8231.3,
+      "unidades": 16,
+      "ingreso_bruto": 114937.0,
+      "comision_total": 28869.0,
+      "envio_total": 7431.9,
       "productos": {
         "MLC1828487885": {
           "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
@@ -137,13 +137,6 @@
           "ingreso_bruto": 84500.0,
           "comision_total": 24055.0,
           "envio_total": 2398.2
-        },
-        "MLC3528199678": {
-          "titulo_ejemplo": "Adaptador Usb Macbook Otg 4 Puertos Plateado 3.0 Plateado",
-          "unidades": 1,
-          "ingreso_bruto": 3221.0,
-          "comision_total": 548.0,
-          "envio_total": 799.4
         },
         "MLC4111973712": {
           "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
@@ -277,17 +270,53 @@
       }
     },
     "2026-10-09": {
-      "unidades": 1,
-      "ingreso_bruto": 18420.0,
-      "comision_total": 2947.0,
-      "envio_total": 7549.8,
+      "unidades": 9,
+      "ingreso_bruto": 72485.0,
+      "comision_total": 12554.0,
+      "envio_total": 26680.4,
       "productos": {
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 2,
+          "ingreso_bruto": 36840.0,
+          "comision_total": 5894.0,
+          "envio_total": 15099.6
+        },
+        "MLC1953728953": {
+          "titulo_ejemplo": "Hub Adaptador Usb C 7 En 1 Linkon Para Mac Macbook Windows Gris Claro Gris Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 5645.0,
+          "comision_total": 960.0,
+          "envio_total": 2794.4
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 6,
+          "ingreso_bruto": 30000.0,
+          "comision_total": 5700.0,
+          "envio_total": 8786.4
+        }
+      }
+    },
+    "2026-10-10": {
+      "unidades": 2,
+      "ingreso_bruto": 22194.0,
+      "comision_total": 3664.0,
+      "envio_total": 1859.2,
+      "productos": {
+        "MLC2235492780": {
+          "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
+          "unidades": 1,
+          "ingreso_bruto": 3774.0,
+          "comision_total": 717.0,
+          "envio_total": 799.4
+        },
         "MLC2147897321": {
           "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
           "unidades": 1,
           "ingreso_bruto": 18420.0,
           "comision_total": 2947.0,
-          "envio_total": 7549.8
+          "envio_total": 1059.8
         }
       }
     }
