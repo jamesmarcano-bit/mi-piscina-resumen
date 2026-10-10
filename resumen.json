@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T13:16:12.239207+00:00",
+  "actualizado": "2026-10-10T13:11:58.929712+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -11,19 +11,19 @@
     },
     "MLC2147897321": {
       "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
-      "unidades_mtd": 8,
-      "ordenes_mtd": 8,
-      "precio_promedio": 19008.8,
+      "unidades_mtd": 10,
+      "ordenes_mtd": 10,
+      "precio_promedio": 18891.0,
       "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 3309.9
+      "envio_promedio_por_unidad": 3508.9
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 49,
-      "ordenes_mtd": 22,
-      "precio_promedio": 6500.0,
-      "comision_pct_promedio": 23.02,
-      "envio_promedio_por_unidad": 898.2
+      "unidades_mtd": 55,
+      "ordenes_mtd": 24,
+      "precio_promedio": 6336.4,
+      "comision_pct_promedio": 22.67,
+      "envio_promedio_por_unidad": 960.0
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -49,14 +49,6 @@
       "comision_pct_promedio": 17.01,
       "envio_promedio_por_unidad": 2794.4
     },
-    "MLC3528199678": {
-      "titulo_ejemplo": "Adaptador Usb Macbook Otg 4 Puertos Plateado 3.0 Plateado",
-      "unidades_mtd": 2,
-      "ordenes_mtd": 2,
-      "precio_promedio": 3221.0,
-      "comision_pct_promedio": 17.01,
-      "envio_promedio_por_unidad": 799.4
-    },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
       "unidades_mtd": 3,
@@ -81,6 +73,14 @@
       "comision_pct_promedio": 19.0,
       "envio_promedio_por_unidad": 5200.0
     },
+    "MLC3528199678": {
+      "titulo_ejemplo": "Adaptador Usb Macbook Otg 4 Puertos Plateado 3.0 Plateado",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 3221.0,
+      "comision_pct_promedio": 17.01,
+      "envio_promedio_por_unidad": 799.4
+    },
     "MLC4128071080": {
       "titulo_ejemplo": "Maquina Selladora Al Vacío Alimentos Sellador + Bolsas Color Negro Transparente",
       "unidades_mtd": 1,
@@ -91,11 +91,19 @@
     },
     "MLC2235492780": {
       "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
-      "unidades_mtd": 1,
-      "ordenes_mtd": 1,
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
       "precio_promedio": 3774.0,
       "comision_pct_promedio": 19.0,
-      "envio_promedio_por_unidad": 7189.4
+      "envio_promedio_por_unidad": 3994.4
+    },
+    "MLC1953728953": {
+      "titulo_ejemplo": "Hub Adaptador Usb C 7 En 1 Linkon Para Mac Macbook Windows Gris Claro Gris Oscuro",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 5645.0,
+      "comision_pct_promedio": 17.01,
+      "envio_promedio_por_unidad": 2794.4
     }
   }
 }
