@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-11T13:12:42.166868+00:00",
+  "actualizado": "2026-10-12T13:33:12.179820+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -335,10 +335,10 @@
       }
     },
     "2026-10-11": {
-      "unidades": 8,
-      "ingreso_bruto": 53004.0,
-      "comision_total": 9402.0,
-      "envio_total": 11760.1,
+      "unidades": 33,
+      "ingreso_bruto": 179174.0,
+      "comision_total": 33128.0,
+      "envio_total": 34539.3,
       "productos": {
         "MLC2147897321": {
           "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
@@ -356,17 +356,39 @@
         },
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Para Piscinas Deja Tu Piscina Cristalina",
-          "unidades": 5,
-          "ingreso_bruto": 25000.0,
-          "comision_total": 4750.0,
-          "envio_total": 3997.0
+          "unidades": 24,
+          "ingreso_bruto": 120000.0,
+          "comision_total": 22800.0,
+          "envio_total": 21779.6
         },
+        "MLC2235492780": {
+          "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
+          "unidades": 6,
+          "ingreso_bruto": 22644.0,
+          "comision_total": 4302.0,
+          "envio_total": 9890.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
+        }
+      }
+    },
+    "2026-10-12": {
+      "unidades": 1,
+      "ingreso_bruto": 3774.0,
+      "comision_total": 717.0,
+      "envio_total": 799.4,
+      "productos": {
         "MLC2235492780": {
           "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
           "unidades": 1,
           "ingreso_bruto": 3774.0,
           "comision_total": 717.0,
-          "envio_total": 5893.4
+          "envio_total": 799.4
         }
       }
     }
