@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-12T13:33:45.648371+00:00",
+  "actualizado": "2026-10-13T13:21:42.693080+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -378,17 +378,38 @@
       }
     },
     "2026-10-12": {
-      "unidades": 1,
-      "ingreso_bruto": 3774.0,
-      "comision_total": 717.0,
-      "envio_total": 799.4,
+      "unidades": 7,
+      "ingreso_bruto": 55463.0,
+      "comision_total": 10179.0,
+      "envio_total": 8447.0,
       "productos": {
         "MLC2235492780": {
           "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
+          "unidades": 2,
+          "ingreso_bruto": 7548.0,
+          "comision_total": 1434.0,
+          "envio_total": 1598.8
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 3,
+          "ingreso_bruto": 29970.0,
+          "comision_total": 5694.0,
+          "envio_total": 5049.2
+        },
+        "MLC1953728953": {
+          "titulo_ejemplo": "Hub Adaptador Usb C 7 En 1 Linkon Para Mac Macbook Windows Gris Claro Gris Oscuro",
           "unidades": 1,
-          "ingreso_bruto": 3774.0,
-          "comision_total": 717.0,
+          "ingreso_bruto": 5645.0,
+          "comision_total": 960.0,
           "envio_total": 799.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
         }
       }
     }
