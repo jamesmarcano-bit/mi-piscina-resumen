@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-13T13:21:42.693080+00:00",
+  "actualizado": "2026-10-14T13:31:40.074787+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -410,6 +410,42 @@
           "ingreso_bruto": 12300.0,
           "comision_total": 2091.0,
           "envio_total": 999.6
+        }
+      }
+    },
+    "2026-10-13": {
+      "unidades": 4,
+      "ingreso_bruto": 24985.0,
+      "comision_total": 4149.0,
+      "envio_total": 3588.2,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 7322.0,
+          "comision_total": 1245.0,
+          "envio_total": 799.4
+        },
+        "MLC2235492780": {
+          "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
+          "unidades": 1,
+          "ingreso_bruto": 3774.0,
+          "comision_total": 717.0,
+          "envio_total": 799.4
+        },
+        "MLC4111973712": {
+          "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
+          "unidades": 1,
+          "ingreso_bruto": 8718.0,
+          "comision_total": 1308.0,
+          "envio_total": 1179.5
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5171.0,
+          "comision_total": 879.0,
+          "envio_total": 809.9
         }
       }
     }
