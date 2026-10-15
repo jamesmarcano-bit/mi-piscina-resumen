@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-14T13:31:40.074787+00:00",
+  "actualizado": "2026-10-15T13:36:36.940157+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -378,10 +378,10 @@
       }
     },
     "2026-10-12": {
-      "unidades": 7,
-      "ingreso_bruto": 55463.0,
-      "comision_total": 10179.0,
-      "envio_total": 8447.0,
+      "unidades": 6,
+      "ingreso_bruto": 45473.0,
+      "comision_total": 8281.0,
+      "envio_total": 7447.4,
       "productos": {
         "MLC2235492780": {
           "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
@@ -392,10 +392,10 @@
         },
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 3,
-          "ingreso_bruto": 29970.0,
-          "comision_total": 5694.0,
-          "envio_total": 5049.2
+          "unidades": 2,
+          "ingreso_bruto": 19980.0,
+          "comision_total": 3796.0,
+          "envio_total": 4049.6
         },
         "MLC1953728953": {
           "titulo_ejemplo": "Hub Adaptador Usb C 7 En 1 Linkon Para Mac Macbook Windows Gris Claro Gris Oscuro",
@@ -446,6 +446,35 @@
           "ingreso_bruto": 5171.0,
           "comision_total": 879.0,
           "envio_total": 809.9
+        }
+      }
+    },
+    "2026-10-14": {
+      "unidades": 16,
+      "ingreso_bruto": 75653.0,
+      "comision_total": 13671.0,
+      "envio_total": 13050.8,
+      "productos": {
+        "MLC2235492780": {
+          "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
+          "unidades": 14,
+          "ingreso_bruto": 49911.0,
+          "comision_total": 9479.0,
+          "envio_total": 11191.6
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 7322.0,
+          "comision_total": 1245.0,
+          "envio_total": 799.4
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 18420.0,
+          "comision_total": 2947.0,
+          "envio_total": 1059.8
         }
       }
     }
