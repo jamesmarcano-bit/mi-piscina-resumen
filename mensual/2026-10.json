@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-15T13:36:36.940157+00:00",
+  "actualizado": "2026-10-16T13:34:06.271475+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -270,10 +270,10 @@
       }
     },
     "2026-10-09": {
-      "unidades": 9,
-      "ingreso_bruto": 72485.0,
-      "comision_total": 12554.0,
-      "envio_total": 26680.4,
+      "unidades": 8,
+      "ingreso_bruto": 66840.0,
+      "comision_total": 11594.0,
+      "envio_total": 23886.0,
       "productos": {
         "MLC2147897321": {
           "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
@@ -281,13 +281,6 @@
           "ingreso_bruto": 36840.0,
           "comision_total": 5894.0,
           "envio_total": 15099.6
-        },
-        "MLC1953728953": {
-          "titulo_ejemplo": "Hub Adaptador Usb C 7 En 1 Linkon Para Mac Macbook Windows Gris Claro Gris Oscuro",
-          "unidades": 1,
-          "ingreso_bruto": 5645.0,
-          "comision_total": 960.0,
-          "envio_total": 2794.4
         },
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
@@ -475,6 +468,49 @@
           "ingreso_bruto": 18420.0,
           "comision_total": 2947.0,
           "envio_total": 1059.8
+        }
+      }
+    },
+    "2026-10-15": {
+      "unidades": 7,
+      "ingreso_bruto": 43937.0,
+      "comision_total": 9115.0,
+      "envio_total": 16004.1,
+      "productos": {
+        "MLC1953728953": {
+          "titulo_ejemplo": "Hub 7 En 1 Adaptador Usb C Puertos Usb3.0/pd/usb-c Mac Pc",
+          "unidades": 1,
+          "ingreso_bruto": 5645.0,
+          "comision_total": 960.0,
+          "envio_total": 3393.4
+        },
+        "MLC2235492780": {
+          "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
+          "unidades": 3,
+          "ingreso_bruto": 11322.0,
+          "comision_total": 2151.0,
+          "envio_total": 6388.2
+        },
+        "MLC2308541341": {
+          "titulo_ejemplo": "Cargador Inalámbrico Magnético Compatible Con iPhone Magsafe 5.000mah Bateria Externa Power Bank Portátil Color Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 10990.0,
+          "comision_total": 3088.0,
+          "envio_total": 3090.0
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5990.0,
+          "comision_total": 1018.0,
+          "envio_total": 809.9
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 9990.0,
+          "comision_total": 1898.0,
+          "envio_total": 2322.6
         }
       }
     }
