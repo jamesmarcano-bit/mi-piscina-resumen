@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-16T13:34:06.271475+00:00",
+  "actualizado": "2026-10-17T13:23:58.251094+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -511,6 +511,42 @@
           "ingreso_bruto": 9990.0,
           "comision_total": 1898.0,
           "envio_total": 2322.6
+        }
+      }
+    },
+    "2026-10-16": {
+      "unidades": 7,
+      "ingreso_bruto": 66764.0,
+      "comision_total": 12194.0,
+      "envio_total": 16289.5,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 2,
+          "ingreso_bruto": 19980.0,
+          "comision_total": 3796.0,
+          "envio_total": 2830.2
+        },
+        "MLC2235492780": {
+          "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
+          "unidades": 1,
+          "ingreso_bruto": 3774.0,
+          "comision_total": 717.0,
+          "envio_total": 799.4
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5990.0,
+          "comision_total": 1018.0,
+          "envio_total": 809.9
+        },
+        "MLC2155634027": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 3,
+          "ingreso_bruto": 37020.0,
+          "comision_total": 6663.0,
+          "envio_total": 11850.0
         }
       }
     }
