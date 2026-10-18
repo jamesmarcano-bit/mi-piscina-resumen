@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T13:23:57.057267+00:00",
+  "actualizado": "2026-10-18T13:23:56.648191+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -11,19 +11,19 @@
     },
     "MLC2147897321": {
       "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
-      "unidades_mtd": 13,
-      "ordenes_mtd": 13,
-      "precio_promedio": 18782.3,
+      "unidades_mtd": 14,
+      "ordenes_mtd": 14,
+      "precio_promedio": 18756.4,
       "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 3016.5
+      "envio_promedio_por_unidad": 2876.8
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 86,
-      "ordenes_mtd": 37,
-      "precio_promedio": 6260.8,
-      "comision_pct_promedio": 21.38,
-      "envio_promedio_por_unidad": 1045.1
+      "unidades_mtd": 88,
+      "ordenes_mtd": 38,
+      "precio_promedio": 6345.6,
+      "comision_pct_promedio": 21.29,
+      "envio_promedio_por_unidad": 1044.1
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -51,11 +51,11 @@
     },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
-      "unidades_mtd": 4,
-      "ordenes_mtd": 4,
-      "precio_promedio": 8431.0,
+      "unidades_mtd": 5,
+      "ordenes_mtd": 5,
+      "precio_promedio": 8488.4,
       "comision_pct_promedio": 15.0,
-      "envio_promedio_por_unidad": 2477.0
+      "envio_promedio_por_unidad": 2853.3
     },
     "MLC4105682984": {
       "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
@@ -91,19 +91,19 @@
     },
     "MLC2235492780": {
       "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
-      "unidades_mtd": 29,
-      "ordenes_mtd": 19,
-      "precio_promedio": 3673.1,
+      "unidades_mtd": 30,
+      "ordenes_mtd": 20,
+      "precio_promedio": 3817.0,
       "comision_pct_promedio": 19.0,
-      "envio_promedio_por_unidad": 1333.0
+      "envio_promedio_por_unidad": 1315.2
     },
     "MLC1953728953": {
       "titulo_ejemplo": "Hub Adaptador Usb C 7 En 1 Linkon Para Mac Macbook Windows Gris Claro Gris Oscuro",
-      "unidades_mtd": 2,
-      "ordenes_mtd": 2,
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
       "precio_promedio": 5645.0,
       "comision_pct_promedio": 17.01,
-      "envio_promedio_por_unidad": 2096.4
+      "envio_promedio_por_unidad": 799.4
     },
     "MLC2308541341": {
       "titulo_ejemplo": "Cargador Inalámbrico Magnético Compatible Con iPhone Magsafe 5.000mah Bateria Externa Power Bank Portátil Color Blanco",
@@ -115,9 +115,9 @@
     },
     "MLC2155634027": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
-      "unidades_mtd": 3,
-      "ordenes_mtd": 2,
-      "precio_promedio": 12340.0,
+      "unidades_mtd": 4,
+      "ordenes_mtd": 3,
+      "precio_promedio": 12156.2,
       "comision_pct_promedio": 18.0,
       "envio_promedio_por_unidad": 3950.0
     }
