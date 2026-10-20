@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-10-19T13:39:22.035822+00:00",
+  "actualizado": "2026-10-20T13:34:48.445361+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
-      "unidades_mtd": 4,
-      "ordenes_mtd": 4,
-      "precio_promedio": 12697.5,
+      "unidades_mtd": 5,
+      "ordenes_mtd": 5,
+      "precio_promedio": 13356.0,
       "comision_pct_promedio": 18.0,
       "envio_promedio_por_unidad": 1099.7
     },
@@ -19,19 +19,19 @@
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 90,
-      "ordenes_mtd": 40,
-      "precio_promedio": 6395.4,
-      "comision_pct_promedio": 21.22,
-      "envio_promedio_por_unidad": 1063.6
+      "unidades_mtd": 92,
+      "ordenes_mtd": 42,
+      "precio_promedio": 6443.2,
+      "comision_pct_promedio": 21.16,
+      "envio_promedio_por_unidad": 1110.6
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 13,
-      "ordenes_mtd": 13,
-      "precio_promedio": 11477.4,
+      "unidades_mtd": 14,
+      "ordenes_mtd": 14,
+      "precio_promedio": 11010.1,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 968.8
+      "envio_promedio_por_unidad": 1241.7
     },
     "MLC3878509334": {
       "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
@@ -59,11 +59,11 @@
     },
     "MLC4105682984": {
       "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
-      "unidades_mtd": 5,
-      "ordenes_mtd": 5,
-      "precio_promedio": 5754.2,
+      "unidades_mtd": 7,
+      "ordenes_mtd": 7,
+      "precio_promedio": 5821.6,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1607.9
+      "envio_promedio_por_unidad": 1774.6
     },
     "R0638600": {
       "titulo_ejemplo": "Filtro Robot Zodiac Ultrafino 60 Micras Original Blanco",
@@ -120,6 +120,14 @@
       "precio_promedio": 12156.2,
       "comision_pct_promedio": 18.0,
       "envio_promedio_por_unidad": 3950.0
+    },
+    "ELE-139": {
+      "titulo_ejemplo": "Cepillo Secador Alisador De Pelo 3d Power Avocado/keratin",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 19990.0,
+      "comision_pct_promedio": 16.0,
+      "envio_promedio_por_unidad": 3400.0
     }
   }
 }
