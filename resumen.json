@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T13:34:48.445361+00:00",
+  "actualizado": "2026-10-21T13:35:10.261639+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -11,27 +11,27 @@
     },
     "MLC2147897321": {
       "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
-      "unidades_mtd": 14,
-      "ordenes_mtd": 14,
-      "precio_promedio": 18756.4,
+      "unidades_mtd": 15,
+      "ordenes_mtd": 15,
+      "precio_promedio": 18838.7,
       "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 2876.8
+      "envio_promedio_por_unidad": 3084.3
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 92,
-      "ordenes_mtd": 42,
-      "precio_promedio": 6443.2,
-      "comision_pct_promedio": 21.16,
-      "envio_promedio_por_unidad": 1110.6
+      "unidades_mtd": 95,
+      "ordenes_mtd": 45,
+      "precio_promedio": 6555.2,
+      "comision_pct_promedio": 21.06,
+      "envio_promedio_por_unidad": 1138.3
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 14,
-      "ordenes_mtd": 14,
-      "precio_promedio": 11010.1,
+      "unidades_mtd": 16,
+      "ordenes_mtd": 16,
+      "precio_promedio": 10250.9,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1241.7
+      "envio_promedio_por_unidad": 1186.4
     },
     "MLC3878509334": {
       "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
@@ -59,11 +59,11 @@
     },
     "MLC4105682984": {
       "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
-      "unidades_mtd": 7,
-      "ordenes_mtd": 7,
-      "precio_promedio": 5821.6,
+      "unidades_mtd": 8,
+      "ordenes_mtd": 8,
+      "precio_promedio": 5842.6,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1774.6
+      "envio_promedio_por_unidad": 1654.0
     },
     "R0638600": {
       "titulo_ejemplo": "Filtro Robot Zodiac Ultrafino 60 Micras Original Blanco",
