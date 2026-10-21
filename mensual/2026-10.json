@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-20T13:34:49.531023+00:00",
+  "actualizado": "2026-10-21T13:35:12.415558+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -638,17 +638,38 @@
       }
     },
     "2026-10-20": {
-      "unidades": 2,
-      "ingreso_bruto": 17180.0,
-      "comision_total": 3264.0,
-      "envio_total": 6443.4,
+      "unidades": 9,
+      "ingreso_bruto": 83002.0,
+      "comision_total": 14852.0,
+      "envio_total": 20809.3,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 5,
+          "ingreso_bruto": 47150.0,
+          "comision_total": 8958.0,
+          "envio_total": 12410.6
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 5990.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
           "unidades": 2,
-          "ingreso_bruto": 17180.0,
-          "comision_total": 3264.0,
-          "envio_total": 6443.4
+          "ingreso_bruto": 9872.0,
+          "comision_total": 1678.0,
+          "envio_total": 1598.8
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5990.0,
+          "comision_total": 1018.0,
+          "envio_total": 809.9
         }
       }
     }
