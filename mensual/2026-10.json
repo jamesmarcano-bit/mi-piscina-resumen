@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-21T13:35:12.415558+00:00",
+  "actualizado": "2026-10-22T13:39:09.608242+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -670,6 +670,50 @@
           "ingreso_bruto": 5990.0,
           "comision_total": 1018.0,
           "envio_total": 809.9
+        }
+      }
+    },
+    "2026-10-21": {
+      "unidades": 5,
+      "ingreso_bruto": 44788.0,
+      "comision_total": 7613.0,
+      "envio_total": 15428.2,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 3,
+          "ingreso_bruto": 14808.0,
+          "comision_total": 2517.0,
+          "envio_total": 8978.2
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 9990.0,
+          "comision_total": 1898.0,
+          "envio_total": 3050.0
+        },
+        "MLC2147897321": {
+          "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
+        }
+      }
+    },
+    "2026-10-22": {
+      "unidades": 1,
+      "ingreso_bruto": 7990.0,
+      "comision_total": 1358.0,
+      "envio_total": 5989.4,
+      "productos": {
+        "MLC1953728953": {
+          "titulo_ejemplo": "Hub 7 En 1 Adaptador Usb C Puertos Usb3.0/pd/usb-c Mac Pc",
+          "unidades": 1,
+          "ingreso_bruto": 7990.0,
+          "comision_total": 1358.0,
+          "envio_total": 5989.4
         }
       }
     }
