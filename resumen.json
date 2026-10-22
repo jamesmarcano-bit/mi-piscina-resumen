@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T13:35:10.261639+00:00",
+  "actualizado": "2026-10-22T13:39:08.272234+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -11,27 +11,27 @@
     },
     "MLC2147897321": {
       "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
-      "unidades_mtd": 15,
-      "ordenes_mtd": 15,
-      "precio_promedio": 18838.7,
+      "unidades_mtd": 16,
+      "ordenes_mtd": 16,
+      "precio_promedio": 18910.6,
       "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 3084.3
+      "envio_promedio_por_unidad": 3104.1
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 95,
-      "ordenes_mtd": 45,
-      "precio_promedio": 6555.2,
-      "comision_pct_promedio": 21.06,
-      "envio_promedio_por_unidad": 1138.3
+      "unidades_mtd": 96,
+      "ordenes_mtd": 46,
+      "precio_promedio": 6590.9,
+      "comision_pct_promedio": 21.02,
+      "envio_promedio_por_unidad": 1158.2
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 16,
-      "ordenes_mtd": 16,
-      "precio_promedio": 10250.9,
+      "unidades_mtd": 19,
+      "ordenes_mtd": 19,
+      "precio_promedio": 9411.7,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1186.4
+      "envio_promedio_por_unidad": 1471.6
     },
     "MLC3878509334": {
       "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
@@ -99,11 +99,11 @@
     },
     "MLC1953728953": {
       "titulo_ejemplo": "Hub Adaptador Usb C 7 En 1 Linkon Para Mac Macbook Windows Gris Claro Gris Oscuro",
-      "unidades_mtd": 1,
-      "ordenes_mtd": 1,
-      "precio_promedio": 5645.0,
-      "comision_pct_promedio": 17.01,
-      "envio_promedio_por_unidad": 799.4
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
+      "precio_promedio": 6817.5,
+      "comision_pct_promedio": 17.0,
+      "envio_promedio_por_unidad": 3394.4
     },
     "MLC2308541341": {
       "titulo_ejemplo": "Cargador Inalámbrico Magnético Compatible Con iPhone Magsafe 5.000mah Bateria Externa Power Bank Portátil Color Blanco",
