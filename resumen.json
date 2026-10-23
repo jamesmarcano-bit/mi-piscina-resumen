@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T13:39:08.272234+00:00",
+  "actualizado": "2026-10-23T13:34:38.557636+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -11,27 +11,27 @@
     },
     "MLC2147897321": {
       "titulo_ejemplo": "Cepillo Secador Y Modelador Keratin 3d Pro 2000w Dorado Oscuro",
-      "unidades_mtd": 16,
-      "ordenes_mtd": 16,
-      "precio_promedio": 18910.6,
+      "unidades_mtd": 17,
+      "ordenes_mtd": 17,
+      "precio_promedio": 18974.1,
       "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 3104.1
+      "envio_promedio_por_unidad": 3121.5
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 96,
-      "ordenes_mtd": 46,
-      "precio_promedio": 6590.9,
-      "comision_pct_promedio": 21.02,
-      "envio_promedio_por_unidad": 1158.2
+      "unidades_mtd": 99,
+      "ordenes_mtd": 49,
+      "precio_promedio": 6693.9,
+      "comision_pct_promedio": 20.93,
+      "envio_promedio_por_unidad": 1174.1
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 19,
-      "ordenes_mtd": 19,
-      "precio_promedio": 9411.7,
+      "unidades_mtd": 20,
+      "ordenes_mtd": 20,
+      "precio_promedio": 9556.1,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1471.6
+      "envio_promedio_por_unidad": 1448.0
     },
     "MLC3878509334": {
       "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
