@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-23T13:34:40.061014+00:00",
+  "actualizado": "2026-10-24T13:26:21.221198+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -735,6 +735,28 @@
           "ingreso_bruto": 19990.0,
           "comision_total": 3198.0,
           "envio_total": 3400.0
+        }
+      }
+    },
+    "2026-10-23": {
+      "unidades": 2,
+      "ingreso_bruto": 15980.0,
+      "comision_total": 2916.0,
+      "envio_total": 3859.9,
+      "productos": {
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5990.0,
+          "comision_total": 1018.0,
+          "envio_total": 809.9
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 9990.0,
+          "comision_total": 1898.0,
+          "envio_total": 3050.0
         }
       }
     }
