@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-25T13:26:18.436648+00:00",
+  "actualizado": "2026-10-26T15:08:44.883068+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -772,6 +772,50 @@
           "ingreso_bruto": 49950.0,
           "comision_total": 9490.0,
           "envio_total": 9098.8
+        }
+      }
+    },
+    "2026-10-25": {
+      "unidades": 4,
+      "ingreso_bruto": 33191.0,
+      "comision_total": 6242.0,
+      "envio_total": 9949.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 3,
+          "ingreso_bruto": 29970.0,
+          "comision_total": 5694.0,
+          "envio_total": 9150.0
+        },
+        "MLC1828487885": {
+          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-10-26": {
+      "unidades": 3,
+      "ingreso_bruto": 30970.0,
+      "comision_total": 5884.0,
+      "envio_total": 7099.6,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 2,
+          "ingreso_bruto": 19980.0,
+          "comision_total": 3796.0,
+          "envio_total": 6100.0
+        },
+        "MLC2308541341": {
+          "titulo_ejemplo": "Cargador Inalámbrico Magnético Compatible Con iPhone Magsafe 5.000 Mah",
+          "unidades": 1,
+          "ingreso_bruto": 10990.0,
+          "comision_total": 2088.0,
+          "envio_total": 999.6
         }
       }
     }
