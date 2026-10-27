@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T15:08:43.462242+00:00",
+  "actualizado": "2026-10-27T13:44:35.420580+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -19,11 +19,11 @@
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 110,
-      "ordenes_mtd": 54,
-      "precio_promedio": 7023.5,
-      "comision_pct_promedio": 20.66,
-      "envio_promedio_por_unidad": 1305.8
+      "unidades_mtd": 112,
+      "ordenes_mtd": 56,
+      "precio_promedio": 7076.5,
+      "comision_pct_promedio": 20.61,
+      "envio_promedio_por_unidad": 1336.9
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -43,11 +43,11 @@
     },
     "MLC1828487885": {
       "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
-      "unidades_mtd": 2,
-      "ordenes_mtd": 2,
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
       "precio_promedio": 3221.0,
       "comision_pct_promedio": 17.01,
-      "envio_promedio_por_unidad": 1796.9
+      "envio_promedio_por_unidad": 2794.4
     },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
@@ -59,11 +59,11 @@
     },
     "MLC4105682984": {
       "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
-      "unidades_mtd": 9,
-      "ordenes_mtd": 9,
-      "precio_promedio": 5859.0,
+      "unidades_mtd": 10,
+      "ordenes_mtd": 10,
+      "precio_promedio": 5790.2,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1560.2
+      "envio_promedio_por_unidad": 1485.2
     },
     "R0638600": {
       "titulo_ejemplo": "Filtro Robot Zodiac Ultrafino 60 Micras Original Blanco",
@@ -128,6 +128,14 @@
       "precio_promedio": 19990.0,
       "comision_pct_promedio": 16.0,
       "envio_promedio_por_unidad": 3400.0
+    },
+    "MLC2308543191": {
+      "titulo_ejemplo": "Cinturón Masajeador Térmico Menstrual, Abdominal Y Lumbar Blanco",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 19990.0,
+      "comision_pct_promedio": 19.0,
+      "envio_promedio_por_unidad": 3050.0
     }
   }
 }
