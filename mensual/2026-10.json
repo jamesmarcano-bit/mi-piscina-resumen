@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-26T15:08:44.883068+00:00",
+  "actualizado": "2026-10-27T13:44:37.914249+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -776,10 +776,10 @@
       }
     },
     "2026-10-25": {
-      "unidades": 4,
-      "ingreso_bruto": 33191.0,
-      "comision_total": 6242.0,
-      "envio_total": 9949.4,
+      "unidades": 3,
+      "ingreso_bruto": 29970.0,
+      "comision_total": 5694.0,
+      "envio_total": 9150.0,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
@@ -787,28 +787,21 @@
           "ingreso_bruto": 29970.0,
           "comision_total": 5694.0,
           "envio_total": 9150.0
-        },
-        "MLC1828487885": {
-          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
-          "unidades": 1,
-          "ingreso_bruto": 3221.0,
-          "comision_total": 548.0,
-          "envio_total": 799.4
         }
       }
     },
     "2026-10-26": {
-      "unidades": 3,
-      "ingreso_bruto": 30970.0,
-      "comision_total": 5884.0,
-      "envio_total": 7099.6,
+      "unidades": 6,
+      "ingreso_bruto": 56121.0,
+      "comision_total": 10559.0,
+      "envio_total": 14009.5,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 2,
-          "ingreso_bruto": 19980.0,
-          "comision_total": 3796.0,
-          "envio_total": 6100.0
+          "unidades": 4,
+          "ingreso_bruto": 39960.0,
+          "comision_total": 7592.0,
+          "envio_total": 12200.0
         },
         "MLC2308541341": {
           "titulo_ejemplo": "Cargador Inalámbrico Magnético Compatible Con iPhone Magsafe 5.000 Mah",
@@ -816,6 +809,28 @@
           "ingreso_bruto": 10990.0,
           "comision_total": 2088.0,
           "envio_total": 999.6
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 1,
+          "ingreso_bruto": 5171.0,
+          "comision_total": 879.0,
+          "envio_total": 809.9
+        }
+      }
+    },
+    "2026-10-27": {
+      "unidades": 1,
+      "ingreso_bruto": 19990.0,
+      "comision_total": 3798.0,
+      "envio_total": 3050.0,
+      "productos": {
+        "MLC2308543191": {
+          "titulo_ejemplo": "Cinturón Masajeador Térmico Menstrual, Abdominal Y Lumbar Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3798.0,
+          "envio_total": 3050.0
         }
       }
     }
