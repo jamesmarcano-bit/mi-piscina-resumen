@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T13:50:00.024753+00:00",
+  "actualizado": "2026-10-29T13:52:35.966793+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -19,19 +19,19 @@
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 117,
-      "ordenes_mtd": 59,
-      "precio_promedio": 7201.0,
-      "comision_pct_promedio": 20.52,
-      "envio_promedio_por_unidad": 1413.4
+      "unidades_mtd": 123,
+      "ordenes_mtd": 62,
+      "precio_promedio": 7337.1,
+      "comision_pct_promedio": 20.42,
+      "envio_promedio_por_unidad": 1409.8
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 21,
-      "ordenes_mtd": 21,
-      "precio_promedio": 9686.8,
+      "unidades_mtd": 22,
+      "ordenes_mtd": 22,
+      "precio_promedio": 9805.5,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1426.7
+      "envio_promedio_por_unidad": 1407.3
     },
     "MLC3878509334": {
       "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
@@ -59,11 +59,11 @@
     },
     "MLC4105682984": {
       "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
-      "unidades_mtd": 10,
-      "ordenes_mtd": 10,
-      "precio_promedio": 5790.2,
+      "unidades_mtd": 12,
+      "ordenes_mtd": 12,
+      "precio_promedio": 5687.0,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1485.2
+      "envio_promedio_por_unidad": 1372.6
     },
     "R0638600": {
       "titulo_ejemplo": "Filtro Robot Zodiac Ultrafino 60 Micras Original Blanco",
