@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-29T13:52:37.186393+00:00",
+  "actualizado": "2026-10-30T13:51:44.714489+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -892,17 +892,24 @@
       }
     },
     "2026-10-29": {
-      "unidades": 1,
-      "ingreso_bruto": 9990.0,
-      "comision_total": 1898.0,
-      "envio_total": 3050.0,
+      "unidades": 8,
+      "ingreso_bruto": 73920.0,
+      "comision_total": 13564.0,
+      "envio_total": 15597.8,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 1,
-          "ingreso_bruto": 9990.0,
-          "comision_total": 1898.0,
-          "envio_total": 3050.0
+          "unidades": 5,
+          "ingreso_bruto": 49950.0,
+          "comision_total": 9490.0,
+          "envio_total": 13199.6
+        },
+        "MLC1953728953": {
+          "titulo_ejemplo": "Hub 7 En 1 Adaptador Usb C Puertos Usb3.0/pd/usb-c Mac Pc",
+          "unidades": 3,
+          "ingreso_bruto": 23970.0,
+          "comision_total": 4074.0,
+          "envio_total": 2398.2
         }
       }
     }
