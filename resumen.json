@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T13:51:43.198787+00:00",
+  "actualizado": "2026-10-31T17:31:50.281499+00:00",
   "productos": {
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -19,19 +19,19 @@
     },
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 127,
-      "ordenes_mtd": 64,
-      "precio_promedio": 7420.6,
-      "comision_pct_promedio": 20.36,
-      "envio_promedio_por_unidad": 1445.4
+      "unidades_mtd": 131,
+      "ordenes_mtd": 68,
+      "precio_promedio": 7544.9,
+      "comision_pct_promedio": 20.29,
+      "envio_promedio_por_unidad": 1509.2
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 22,
-      "ordenes_mtd": 22,
-      "precio_promedio": 9805.5,
+      "unidades_mtd": 24,
+      "ordenes_mtd": 24,
+      "precio_promedio": 9780.4,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1407.3
+      "envio_promedio_por_unidad": 1409.2
     },
     "MLC3878509334": {
       "titulo_ejemplo": "Nebulizador Portátil Bebé Silencioso Usb Inalámbrico Bateria Blanco",
@@ -59,11 +59,11 @@
     },
     "MLC4105682984": {
       "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
-      "unidades_mtd": 12,
-      "ordenes_mtd": 12,
-      "precio_promedio": 5687.0,
+      "unidades_mtd": 14,
+      "ordenes_mtd": 14,
+      "precio_promedio": 5613.3,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1372.6
+      "envio_promedio_por_unidad": 1477.3
     },
     "R0638600": {
       "titulo_ejemplo": "Filtro Robot Zodiac Ultrafino 60 Micras Original Blanco",
@@ -83,11 +83,11 @@
     },
     "MLC4128071080": {
       "titulo_ejemplo": "Maquina Selladora Al Vacío Alimentos Sellador + Bolsas Color Negro Transparente",
-      "unidades_mtd": 1,
-      "ordenes_mtd": 1,
-      "precio_promedio": 7102.0,
-      "comision_pct_promedio": 17.99,
-      "envio_promedio_por_unidad": 829.5
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
+      "precio_promedio": 7821.0,
+      "comision_pct_promedio": 18.0,
+      "envio_promedio_por_unidad": 1214.5
     },
     "MLC2235492780": {
       "titulo_ejemplo": "Kit Medidor De Cloro Y Ph Para Piscina Tester Analizador",
