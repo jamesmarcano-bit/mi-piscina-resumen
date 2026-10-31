@@ -1,6 +1,6 @@
 {
   "mes": "2026-10",
-  "actualizado": "2026-10-30T13:51:44.714489+00:00",
+  "actualizado": "2026-10-31T17:31:51.429841+00:00",
   "dias": {
     "2026-10-01": {
       "unidades": 10,
@@ -910,6 +910,64 @@
           "ingreso_bruto": 23970.0,
           "comision_total": 4074.0,
           "envio_total": 2398.2
+        }
+      }
+    },
+    "2026-10-30": {
+      "unidades": 7,
+      "ingreso_bruto": 60174.0,
+      "comision_total": 10994.0,
+      "envio_total": 17698.3,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 3,
+          "ingreso_bruto": 33970.0,
+          "comision_total": 6454.0,
+          "envio_total": 11089.6
+        },
+        "MLC4128071080": {
+          "titulo_ejemplo": "Maquina Selladora Al Vacío Alimentos Sellador + Bolsas Color Negro Transparente",
+          "unidades": 1,
+          "ingreso_bruto": 8540.0,
+          "comision_total": 1537.0,
+          "envio_total": 1599.5
+        },
+        "MLC4105682984": {
+          "titulo_ejemplo": "Sellador Adhesivo Impermeable Transparente Tapa Gotera Agua",
+          "unidades": 2,
+          "ingreso_bruto": 10342.0,
+          "comision_total": 1758.0,
+          "envio_total": 4209.8
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 7322.0,
+          "comision_total": 1245.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-10-31": {
+      "unidades": 2,
+      "ingreso_bruto": 23675.0,
+      "comision_total": 4264.0,
+      "envio_total": 5112.6,
+      "productos": {
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 11685.0,
+          "comision_total": 1986.0,
+          "envio_total": 2062.6
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 11990.0,
+          "comision_total": 2278.0,
+          "envio_total": 3050.0
         }
       }
     }
