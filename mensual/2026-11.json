@@ -1,0 +1,43 @@
+{
+  "mes": "2026-11",
+  "actualizado": "2026-11-01T18:16:44.404808+00:00",
+  "dias": {
+    "2026-10-31": {
+      "unidades": 3,
+      "ingreso_bruto": 14970.0,
+      "comision_total": 2844.0,
+      "envio_total": 4928.2,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 3,
+          "ingreso_bruto": 14970.0,
+          "comision_total": 2844.0,
+          "envio_total": 4928.2
+        }
+      }
+    },
+    "2026-11-01": {
+      "unidades": 20,
+      "ingreso_bruto": 127495.0,
+      "comision_total": 27988.0,
+      "envio_total": 18943.0,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 19,
+          "ingreso_bruto": 115810.0,
+          "comision_total": 26002.0,
+          "envio_total": 17943.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 11685.0,
+          "comision_total": 1986.0,
+          "envio_total": 999.6
+        }
+      }
+    }
+  }
+}
