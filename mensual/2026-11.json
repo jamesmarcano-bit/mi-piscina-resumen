@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-01T18:16:44.404808+00:00",
+  "actualizado": "2026-11-02T22:11:05.417212+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -18,17 +18,17 @@
       }
     },
     "2026-11-01": {
-      "unidades": 20,
-      "ingreso_bruto": 127495.0,
-      "comision_total": 27988.0,
-      "envio_total": 18943.0,
+      "unidades": 24,
+      "ingreso_bruto": 158855.0,
+      "comision_total": 34946.0,
+      "envio_total": 24231.2,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 19,
-          "ingreso_bruto": 115810.0,
-          "comision_total": 26002.0,
-          "envio_total": 17943.4
+          "unidades": 23,
+          "ingreso_bruto": 147170.0,
+          "comision_total": 32960.0,
+          "envio_total": 23231.6
         },
         "8IN1": {
           "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -36,6 +36,42 @@
           "ingreso_bruto": 11685.0,
           "comision_total": 1986.0,
           "envio_total": 999.6
+        }
+      }
+    },
+    "2026-11-02": {
+      "unidades": 7,
+      "ingreso_bruto": 46221.0,
+      "comision_total": 8223.0,
+      "envio_total": 17406.5,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 4,
+          "ingreso_bruto": 26960.0,
+          "comision_total": 5122.0,
+          "envio_total": 5448.2
+        },
+        "MLC4111973712": {
+          "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
+          "unidades": 1,
+          "ingreso_bruto": 8718.0,
+          "comision_total": 1308.0,
+          "envio_total": 6369.5
+        },
+        "MLC1828487885": {
+          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 7322.0,
+          "comision_total": 1245.0,
+          "envio_total": 4789.4
         }
       }
     }
