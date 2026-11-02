@@ -1,21 +1,37 @@
 {
-  "actualizado": "2026-11-01T18:16:43.147186+00:00",
+  "actualizado": "2026-11-02T22:11:04.010591+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 22,
-      "ordenes_mtd": 7,
-      "precio_promedio": 5944.5,
-      "comision_pct_promedio": 22.06,
-      "envio_promedio_por_unidad": 1039.6
+      "unidades_mtd": 30,
+      "ordenes_mtd": 12,
+      "precio_promedio": 6303.3,
+      "comision_pct_promedio": 21.64,
+      "envio_promedio_por_unidad": 1120.3
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
+      "precio_promedio": 9503.5,
+      "comision_pct_promedio": 17.0,
+      "envio_promedio_por_unidad": 2894.5
+    },
+    "MLC4111973712": {
+      "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
       "unidades_mtd": 1,
       "ordenes_mtd": 1,
-      "precio_promedio": 11685.0,
-      "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 999.6
+      "precio_promedio": 8718.0,
+      "comision_pct_promedio": 15.0,
+      "envio_promedio_por_unidad": 6369.5
+    },
+    "MLC1828487885": {
+      "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 3221.0,
+      "comision_pct_promedio": 17.01,
+      "envio_promedio_por_unidad": 799.4
     }
   }
 }
