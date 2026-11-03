@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-02T22:11:05.417212+00:00",
+  "actualizado": "2026-11-03T19:58:22.692742+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -40,17 +40,17 @@
       }
     },
     "2026-11-02": {
-      "unidades": 7,
-      "ingreso_bruto": 46221.0,
-      "comision_total": 8223.0,
-      "envio_total": 17406.5,
+      "unidades": 13,
+      "ingreso_bruto": 85493.0,
+      "comision_total": 15538.0,
+      "envio_total": 27043.5,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 4,
-          "ingreso_bruto": 26960.0,
-          "comision_total": 5122.0,
-          "envio_total": 5448.2
+          "unidades": 9,
+          "ingreso_bruto": 58910.0,
+          "comision_total": 11192.0,
+          "envio_total": 14285.8
         },
         "MLC4111973712": {
           "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
@@ -68,10 +68,32 @@
         },
         "8IN1": {
           "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 2,
+          "ingreso_bruto": 14644.0,
+          "comision_total": 2490.0,
+          "envio_total": 5588.8
+        }
+      }
+    },
+    "2026-11-03": {
+      "unidades": 5,
+      "ingreso_bruto": 33551.0,
+      "comision_total": 6238.0,
+      "envio_total": 8277.3,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 4,
+          "ingreso_bruto": 19960.0,
+          "comision_total": 3792.0,
+          "envio_total": 7177.6
+        },
+        "MLC2016102485": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
           "unidades": 1,
-          "ingreso_bruto": 7322.0,
-          "comision_total": 1245.0,
-          "envio_total": 4789.4
+          "ingreso_bruto": 13591.0,
+          "comision_total": 2446.0,
+          "envio_total": 1099.7
         }
       }
     }
