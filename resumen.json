@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-11-02T22:11:04.010591+00:00",
+  "actualizado": "2026-11-03T19:58:21.180414+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 30,
-      "ordenes_mtd": 12,
-      "precio_promedio": 6303.3,
-      "comision_pct_promedio": 21.64,
-      "envio_promedio_por_unidad": 1120.3
+      "unidades_mtd": 39,
+      "ordenes_mtd": 20,
+      "precio_promedio": 6179.7,
+      "comision_pct_promedio": 21.07,
+      "envio_promedio_por_unidad": 1272.4
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 2,
-      "ordenes_mtd": 2,
-      "precio_promedio": 9503.5,
+      "unidades_mtd": 3,
+      "ordenes_mtd": 3,
+      "precio_promedio": 8776.3,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 2894.5
+      "envio_promedio_por_unidad": 2196.1
     },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
@@ -32,6 +32,14 @@
       "precio_promedio": 3221.0,
       "comision_pct_promedio": 17.01,
       "envio_promedio_por_unidad": 799.4
+    },
+    "MLC2016102485": {
+      "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 13591.0,
+      "comision_pct_promedio": 18.0,
+      "envio_promedio_por_unidad": 1099.7
     }
   }
 }
