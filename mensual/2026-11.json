@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-05T20:28:50.581087+00:00",
+  "actualizado": "2026-11-06T19:52:27.407933+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -120,17 +120,17 @@
       }
     },
     "2026-11-05": {
-      "unidades": 3,
-      "ingreso_bruto": 31756.0,
-      "comision_total": 5897.0,
-      "envio_total": 4949.1,
+      "unidades": 4,
+      "ingreso_bruto": 42731.0,
+      "comision_total": 7982.0,
+      "envio_total": 7999.1,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 2,
-          "ingreso_bruto": 18165.0,
-          "comision_total": 3451.0,
-          "envio_total": 3849.4
+          "unidades": 3,
+          "ingreso_bruto": 29140.0,
+          "comision_total": 5536.0,
+          "envio_total": 6899.4
         },
         "MLC2016102485": {
           "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -138,6 +138,21 @@
           "ingreso_bruto": 13591.0,
           "comision_total": 2446.0,
           "envio_total": 1099.7
+        }
+      }
+    },
+    "2026-11-06": {
+      "unidades": 15,
+      "ingreso_bruto": 69286.0,
+      "comision_total": 13158.0,
+      "envio_total": 11991.0,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 15,
+          "ingreso_bruto": 69286.0,
+          "comision_total": 13158.0,
+          "envio_total": 11991.0
         }
       }
     }
