@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-06T19:52:27.407933+00:00",
+  "actualizado": "2026-11-07T17:57:03.071881+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -142,17 +142,46 @@
       }
     },
     "2026-11-06": {
-      "unidades": 15,
-      "ingreso_bruto": 69286.0,
-      "comision_total": 13158.0,
-      "envio_total": 11991.0,
+      "unidades": 31,
+      "ingreso_bruto": 163268.0,
+      "comision_total": 30894.0,
+      "envio_total": 32172.9,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 15,
-          "ingreso_bruto": 69286.0,
-          "comision_total": 13158.0,
-          "envio_total": 11991.0
+          "unidades": 30,
+          "ingreso_bruto": 151663.0,
+          "comision_total": 28805.0,
+          "envio_total": 28023.2
+        },
+        "MLC2155634027": {
+          "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
+          "unidades": 1,
+          "ingreso_bruto": 11605.0,
+          "comision_total": 2089.0,
+          "envio_total": 4149.7
+        }
+      }
+    },
+    "2026-11-07": {
+      "unidades": 9,
+      "ingreso_bruto": 60710.0,
+      "comision_total": 10966.0,
+      "envio_total": 7455.0,
+      "productos": {
+        "ELE-139": {
+          "titulo_ejemplo": "Cepillo Secador Alisador De Pelo 3d Power Avocado/keratin",
+          "unidades": 1,
+          "ingreso_bruto": 18990.0,
+          "comision_total": 3038.0,
+          "envio_total": 1059.8
+        },
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 8,
+          "ingreso_bruto": 41720.0,
+          "comision_total": 7928.0,
+          "envio_total": 6395.2
         }
       }
     }
