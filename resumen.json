@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-11-07T17:57:01.955646+00:00",
+  "actualizado": "2026-11-08T18:13:56.293811+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 89,
-      "ordenes_mtd": 41,
-      "precio_promedio": 5744.3,
-      "comision_pct_promedio": 19.98,
-      "envio_promedio_por_unidad": 1115.2
+      "unidades_mtd": 94,
+      "ordenes_mtd": 44,
+      "precio_promedio": 5765.2,
+      "comision_pct_promedio": 19.92,
+      "envio_promedio_por_unidad": 1122.4
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -35,8 +35,8 @@
     },
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
-      "unidades_mtd": 2,
-      "ordenes_mtd": 2,
+      "unidades_mtd": 4,
+      "ordenes_mtd": 4,
       "precio_promedio": 13591.0,
       "comision_pct_promedio": 18.0,
       "envio_promedio_por_unidad": 1099.7
