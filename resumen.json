@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-11-08T18:13:56.293811+00:00",
+  "actualizado": "2026-11-09T22:53:25.685115+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 94,
-      "ordenes_mtd": 44,
-      "precio_promedio": 5765.2,
-      "comision_pct_promedio": 19.92,
-      "envio_promedio_por_unidad": 1122.4
+      "unidades_mtd": 122,
+      "ordenes_mtd": 59,
+      "precio_promedio": 5610.5,
+      "comision_pct_promedio": 19.73,
+      "envio_promedio_por_unidad": 1284.7
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -35,8 +35,8 @@
     },
     "MLC2016102485": {
       "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
-      "unidades_mtd": 4,
-      "ordenes_mtd": 4,
+      "unidades_mtd": 5,
+      "ordenes_mtd": 5,
       "precio_promedio": 13591.0,
       "comision_pct_promedio": 18.0,
       "envio_promedio_por_unidad": 1099.7
@@ -59,11 +59,11 @@
     },
     "ELE-139": {
       "titulo_ejemplo": "Cepillo Secador Alisador De Pelo 3d Power Avocado/keratin",
-      "unidades_mtd": 1,
-      "ordenes_mtd": 1,
-      "precio_promedio": 18990.0,
+      "unidades_mtd": 3,
+      "ordenes_mtd": 3,
+      "precio_promedio": 17473.7,
       "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 1059.8
+      "envio_promedio_por_unidad": 2723.1
     }
   }
 }
