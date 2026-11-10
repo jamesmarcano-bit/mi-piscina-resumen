@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-11-09T22:53:25.685115+00:00",
+  "actualizado": "2026-11-10T20:15:58.556360+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 122,
-      "ordenes_mtd": 59,
-      "precio_promedio": 5610.5,
-      "comision_pct_promedio": 19.73,
-      "envio_promedio_por_unidad": 1284.7
+      "unidades_mtd": 154,
+      "ordenes_mtd": 72,
+      "precio_promedio": 5510.9,
+      "comision_pct_promedio": 19.59,
+      "envio_promedio_por_unidad": 1224.0
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 3,
-      "ordenes_mtd": 3,
-      "precio_promedio": 8776.3,
+      "unidades_mtd": 4,
+      "ordenes_mtd": 4,
+      "precio_promedio": 9503.5,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 2196.1
+      "envio_promedio_por_unidad": 1897.0
     },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
