@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-09T22:53:27.084532+00:00",
+  "actualizado": "2026-11-10T20:15:59.821690+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -222,17 +222,17 @@
       }
     },
     "2026-11-09": {
-      "unidades": 20,
-      "ingreso_bruto": 113237.0,
-      "comision_total": 21060.0,
-      "envio_total": 49919.0,
+      "unidades": 24,
+      "ingreso_bruto": 132949.0,
+      "comision_total": 24804.0,
+      "envio_total": 53116.6,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Para Piscinas Deja Tu Piscina Cristalina",
-          "unidades": 19,
-          "ingreso_bruto": 98197.0,
-          "comision_total": 18654.0,
-          "envio_total": 43869.2
+          "unidades": 23,
+          "ingreso_bruto": 117909.0,
+          "comision_total": 22398.0,
+          "envio_total": 47066.8
         },
         "ELE-139": {
           "titulo_ejemplo": "Cepillo Secador Alisador Top Premium Verde 2000w Avocado Verde",
@@ -240,6 +240,28 @@
           "ingreso_bruto": 15040.0,
           "comision_total": 2406.0,
           "envio_total": 6049.8
+        }
+      }
+    },
+    "2026-11-10": {
+      "unidades": 29,
+      "ingreso_bruto": 156174.0,
+      "comision_total": 29434.0,
+      "envio_total": 29623.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 28,
+          "ingreso_bruto": 144489.0,
+          "comision_total": 27448.0,
+          "envio_total": 28623.8
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 11685.0,
+          "comision_total": 1986.0,
+          "envio_total": 999.6
         }
       }
     }
