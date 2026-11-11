@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-11-10T20:15:58.556360+00:00",
+  "actualizado": "2026-11-11T20:01:42.501158+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 154,
-      "ordenes_mtd": 72,
-      "precio_promedio": 5510.9,
-      "comision_pct_promedio": 19.59,
-      "envio_promedio_por_unidad": 1224.0
+      "unidades_mtd": 243,
+      "ordenes_mtd": 98,
+      "precio_promedio": 5317.3,
+      "comision_pct_promedio": 19.38,
+      "envio_promedio_por_unidad": 1114.8
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -64,6 +64,14 @@
       "precio_promedio": 17473.7,
       "comision_pct_promedio": 16.0,
       "envio_promedio_por_unidad": 2723.1
+    },
+    "MLC2408946257": {
+      "titulo_ejemplo": "Clarificante Para Piscina Ctx Pool Gel Crystal Water 90g",
+      "unidades_mtd": 2,
+      "ordenes_mtd": 1,
+      "precio_promedio": 6190.0,
+      "comision_pct_promedio": 19.0,
+      "envio_promedio_por_unidad": 799.4
     }
   }
 }
