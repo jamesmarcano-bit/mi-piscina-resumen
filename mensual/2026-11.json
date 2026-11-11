@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-10T20:15:59.821690+00:00",
+  "actualizado": "2026-11-11T20:01:43.498311+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -244,17 +244,17 @@
       }
     },
     "2026-11-10": {
-      "unidades": 29,
-      "ingreso_bruto": 156174.0,
-      "comision_total": 29434.0,
-      "envio_total": 29623.4,
+      "unidades": 72,
+      "ingreso_bruto": 374742.0,
+      "comision_total": 70956.0,
+      "envio_total": 66587.6,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 28,
-          "ingreso_bruto": 144489.0,
-          "comision_total": 27448.0,
-          "envio_total": 28623.8
+          "unidades": 69,
+          "ingreso_bruto": 350677.0,
+          "comision_total": 66618.0,
+          "envio_total": 63989.2
         },
         "8IN1": {
           "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -262,6 +262,28 @@
           "ingreso_bruto": 11685.0,
           "comision_total": 1986.0,
           "envio_total": 999.6
+        },
+        "MLC2408946257": {
+          "titulo_ejemplo": "Clarificante Para Piscina Ctx Pool Gel Crystal Water 90g",
+          "unidades": 2,
+          "ingreso_bruto": 12380.0,
+          "comision_total": 2352.0,
+          "envio_total": 1598.8
+        }
+      }
+    },
+    "2026-11-11": {
+      "unidades": 48,
+      "ingreso_bruto": 237228.0,
+      "comision_total": 45062.0,
+      "envio_total": 47141.2,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 48,
+          "ingreso_bruto": 237228.0,
+          "comision_total": 45062.0,
+          "envio_total": 47141.2
         }
       }
     }
