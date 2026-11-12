@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-11T20:01:43.498311+00:00",
+  "actualizado": "2026-11-12T20:40:19.962643+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -273,17 +273,46 @@
       }
     },
     "2026-11-11": {
-      "unidades": 48,
-      "ingreso_bruto": 237228.0,
-      "comision_total": 45062.0,
-      "envio_total": 47141.2,
+      "unidades": 65,
+      "ingreso_bruto": 330614.0,
+      "comision_total": 62802.0,
+      "envio_total": 64321.0,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 48,
-          "ingreso_bruto": 237228.0,
-          "comision_total": 45062.0,
-          "envio_total": 47141.2
+          "unidades": 65,
+          "ingreso_bruto": 330614.0,
+          "comision_total": 62802.0,
+          "envio_total": 64321.0
+        }
+      }
+    },
+    "2026-11-12": {
+      "unidades": 46,
+      "ingreso_bruto": 267620.0,
+      "comision_total": 50593.0,
+      "envio_total": 46834.2,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 44,
+          "ingreso_bruto": 219830.0,
+          "comision_total": 41759.0,
+          "envio_total": 43053.6
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 999.6
+        },
+        "MLC2408945807": {
+          "titulo_ejemplo": "Pool Gel Pack De 5 Unidades Para Mantenciòn De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 35490.0,
+          "comision_total": 6743.0,
+          "envio_total": 2781.0
         }
       }
     }
