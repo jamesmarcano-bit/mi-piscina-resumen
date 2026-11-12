@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-11-11T20:01:42.501158+00:00",
+  "actualizado": "2026-11-12T20:40:18.877251+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 243,
-      "ordenes_mtd": 98,
-      "precio_promedio": 5317.3,
-      "comision_pct_promedio": 19.38,
-      "envio_promedio_por_unidad": 1114.8
+      "unidades_mtd": 304,
+      "ordenes_mtd": 124,
+      "precio_promedio": 5280.6,
+      "comision_pct_promedio": 19.31,
+      "envio_promedio_por_unidad": 1089.1
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 4,
-      "ordenes_mtd": 4,
-      "precio_promedio": 9503.5,
+      "unidades_mtd": 5,
+      "ordenes_mtd": 5,
+      "precio_promedio": 10062.8,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1897.0
+      "envio_promedio_por_unidad": 1717.5
     },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
@@ -72,6 +72,14 @@
       "precio_promedio": 6190.0,
       "comision_pct_promedio": 19.0,
       "envio_promedio_por_unidad": 799.4
+    },
+    "MLC2408945807": {
+      "titulo_ejemplo": "Pool Gel Pack De 5 Unidades Para Mantenciòn De Piscinas",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 35490.0,
+      "comision_pct_promedio": 19.0,
+      "envio_promedio_por_unidad": 2781.0
     }
   }
 }
