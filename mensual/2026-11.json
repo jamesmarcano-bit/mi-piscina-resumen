@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-12T20:40:19.962643+00:00",
+  "actualizado": "2026-11-13T20:21:30.740362+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -193,10 +193,10 @@
       }
     },
     "2026-11-08": {
-      "unidades": 17,
-      "ingreso_bruto": 120616.0,
-      "comision_total": 22090.0,
-      "envio_total": 16701.4,
+      "unidades": 16,
+      "ingreso_bruto": 109641.0,
+      "comision_total": 20005.0,
+      "envio_total": 13651.4,
       "productos": {
         "MLC2016102485": {
           "titulo_ejemplo": "Estante Organizador Bajo Lavaplatos Ajustable Blanco",
@@ -207,10 +207,10 @@
         },
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 14,
-          "ingreso_bruto": 75043.0,
-          "comision_total": 14255.0,
-          "envio_total": 13442.2
+          "unidades": 13,
+          "ingreso_bruto": 64068.0,
+          "comision_total": 12170.0,
+          "envio_total": 10392.2
         },
         "ELE-139": {
           "titulo_ejemplo": "Cepillo Secador Alisador Top Premium Verde 2000w Avocado Verde",
@@ -288,17 +288,17 @@
       }
     },
     "2026-11-12": {
-      "unidades": 46,
-      "ingreso_bruto": 267620.0,
-      "comision_total": 50593.0,
-      "envio_total": 46834.2,
+      "unidades": 65,
+      "ingreso_bruto": 363660.0,
+      "comision_total": 68837.0,
+      "envio_total": 62022.8,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 44,
-          "ingreso_bruto": 219830.0,
-          "comision_total": 41759.0,
-          "envio_total": 43053.6
+          "unidades": 63,
+          "ingreso_bruto": 315870.0,
+          "comision_total": 60003.0,
+          "envio_total": 58242.2
         },
         "8IN1": {
           "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
@@ -313,6 +313,21 @@
           "ingreso_bruto": 35490.0,
           "comision_total": 6743.0,
           "envio_total": 2781.0
+        }
+      }
+    },
+    "2026-11-13": {
+      "unidades": 14,
+      "ingreso_bruto": 74000.0,
+      "comision_total": 14058.0,
+      "envio_total": 26732.6,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 14,
+          "ingreso_bruto": 74000.0,
+          "comision_total": 14058.0,
+          "envio_total": 26732.6
         }
       }
     }
