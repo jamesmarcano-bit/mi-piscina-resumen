@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-13T20:21:30.740362+00:00",
+  "actualizado": "2026-11-14T18:39:51.166651+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -317,17 +317,32 @@
       }
     },
     "2026-11-13": {
-      "unidades": 14,
-      "ingreso_bruto": 74000.0,
-      "comision_total": 14058.0,
-      "envio_total": 26732.6,
+      "unidades": 25,
+      "ingreso_bruto": 144205.0,
+      "comision_total": 27400.0,
+      "envio_total": 47286.0,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 14,
-          "ingreso_bruto": 74000.0,
-          "comision_total": 14058.0,
-          "envio_total": 26732.6
+          "unidades": 25,
+          "ingreso_bruto": 144205.0,
+          "comision_total": 27400.0,
+          "envio_total": 47286.0
+        }
+      }
+    },
+    "2026-11-14": {
+      "unidades": 6,
+      "ingreso_bruto": 37120.0,
+      "comision_total": 7054.0,
+      "envio_total": 12876.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 6,
+          "ingreso_bruto": 37120.0,
+          "comision_total": 7054.0,
+          "envio_total": 12876.4
         }
       }
     }
