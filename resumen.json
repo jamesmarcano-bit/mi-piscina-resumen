@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-11-14T18:39:50.059469+00:00",
+  "actualizado": "2026-11-15T19:15:29.847475+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 353,
-      "ordenes_mtd": 144,
-      "precio_promedio": 5302.3,
-      "comision_pct_promedio": 19.26,
-      "envio_promedio_por_unidad": 1142.9
+      "unidades_mtd": 407,
+      "ordenes_mtd": 171,
+      "precio_promedio": 5490.6,
+      "comision_pct_promedio": 19.22,
+      "envio_promedio_por_unidad": 1152.0
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 5,
-      "ordenes_mtd": 5,
-      "precio_promedio": 10062.8,
+      "unidades_mtd": 6,
+      "ordenes_mtd": 6,
+      "precio_promedio": 10435.7,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 1717.5
+      "envio_promedio_por_unidad": 2512.9
     },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
@@ -27,8 +27,8 @@
     },
     "MLC1828487885": {
       "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
-      "unidades_mtd": 1,
-      "ordenes_mtd": 1,
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
       "precio_promedio": 3221.0,
       "comision_pct_promedio": 17.01,
       "envio_promedio_por_unidad": 799.4
@@ -67,19 +67,27 @@
     },
     "MLC2408946257": {
       "titulo_ejemplo": "Clarificante Para Piscina Ctx Pool Gel Crystal Water 90g",
-      "unidades_mtd": 2,
-      "ordenes_mtd": 1,
-      "precio_promedio": 6190.0,
-      "comision_pct_promedio": 19.0,
-      "envio_promedio_por_unidad": 799.4
+      "unidades_mtd": 8,
+      "ordenes_mtd": 4,
+      "precio_promedio": 7040.0,
+      "comision_pct_promedio": 24.68,
+      "envio_promedio_por_unidad": 873.5
     },
     "MLC2408945807": {
       "titulo_ejemplo": "Pool Gel Pack De 5 Unidades Para Mantenciòn De Piscinas",
-      "unidades_mtd": 1,
-      "ordenes_mtd": 1,
+      "unidades_mtd": 2,
+      "ordenes_mtd": 2,
       "precio_promedio": 35490.0,
       "comision_pct_promedio": 19.0,
-      "envio_promedio_por_unidad": 2781.0
+      "envio_promedio_por_unidad": 3015.5
+    },
+    "MLC1981538729": {
+      "titulo_ejemplo": "Libro El Libro Negro Del Emprendedor",
+      "unidades_mtd": 1,
+      "ordenes_mtd": 1,
+      "precio_promedio": 5000.0,
+      "comision_pct_promedio": 13.0,
+      "envio_promedio_por_unidad": 7532.0
     }
   }
 }
