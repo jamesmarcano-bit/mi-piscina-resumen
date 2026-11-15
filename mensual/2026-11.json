@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-14T18:39:51.166651+00:00",
+  "actualizado": "2026-11-15T19:15:30.763415+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -332,17 +332,74 @@
       }
     },
     "2026-11-14": {
-      "unidades": 6,
-      "ingreso_bruto": 37120.0,
-      "comision_total": 7054.0,
-      "envio_total": 12876.4,
+      "unidades": 64,
+      "ingreso_bruto": 399611.0,
+      "comision_total": 78519.0,
+      "envio_total": 88609.2,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 6,
-          "ingreso_bruto": 37120.0,
-          "comision_total": 7054.0,
-          "envio_total": 12876.4
+          "unidades": 56,
+          "ingreso_bruto": 348140.0,
+          "comision_total": 66150.0,
+          "envio_total": 69398.8
+        },
+        "MLC2408946257": {
+          "titulo_ejemplo": "Clarificante Para Piscina Ctx Pool Gel Crystal Water 90g",
+          "unidades": 5,
+          "ingreso_bruto": 30950.0,
+          "comision_total": 9080.0,
+          "envio_total": 4389.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 12300.0,
+          "comision_total": 2091.0,
+          "envio_total": 6489.6
+        },
+        "MLC1981538729": {
+          "titulo_ejemplo": "Libro El Libro Negro Del Emprendedor",
+          "unidades": 1,
+          "ingreso_bruto": 5000.0,
+          "comision_total": 650.0,
+          "envio_total": 7532.0
+        },
+        "MLC1828487885": {
+          "titulo_ejemplo": "Adaptador Hub Tipo C A 4 Usb 3.0 Macbook Mac Pc Smartphone",
+          "unidades": 1,
+          "ingreso_bruto": 3221.0,
+          "comision_total": 548.0,
+          "envio_total": 799.4
+        }
+      }
+    },
+    "2026-11-15": {
+      "unidades": 6,
+      "ingreso_bruto": 100440.0,
+      "comision_total": 19083.0,
+      "envio_total": 13138.0,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 4,
+          "ingreso_bruto": 51960.0,
+          "comision_total": 9872.0,
+          "envio_total": 8888.4
+        },
+        "MLC2408946257": {
+          "titulo_ejemplo": "Clarificante Para Piscina Ctx Pool Gel Crystal Water 90g",
+          "unidades": 1,
+          "ingreso_bruto": 12990.0,
+          "comision_total": 2468.0,
+          "envio_total": 999.6
+        },
+        "MLC2408945807": {
+          "titulo_ejemplo": "Pool Gel Pack De 5 Unidades Para Mantenciòn De Piscinas",
+          "unidades": 1,
+          "ingreso_bruto": 35490.0,
+          "comision_total": 6743.0,
+          "envio_total": 3250.0
         }
       }
     }
