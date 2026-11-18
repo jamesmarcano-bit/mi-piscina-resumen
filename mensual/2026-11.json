@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-17T21:31:52.863148+00:00",
+  "actualizado": "2026-11-18T21:07:59.334253+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -419,23 +419,23 @@
       }
     },
     "2026-11-17": {
-      "unidades": 21,
-      "ingreso_bruto": 197960.0,
-      "comision_total": 39610.0,
-      "envio_total": 28547.0,
+      "unidades": 36,
+      "ingreso_bruto": 306300.0,
+      "comision_total": 64192.0,
+      "envio_total": 40897.2,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 17,
-          "ingreso_bruto": 127720.0,
-          "comision_total": 24265.0,
-          "envio_total": 24946.4
+          "unidades": 27,
+          "ingreso_bruto": 205420.0,
+          "comision_total": 39027.0,
+          "envio_total": 37296.6
         },
         "MLC2408946257": {
           "titulo_ejemplo": "Clarificante Para Piscina Ctx Pool Gel Crystal Water 90g",
-          "unidades": 3,
-          "ingreso_bruto": 38970.0,
-          "comision_total": 9404.0,
+          "unidades": 8,
+          "ingreso_bruto": 69610.0,
+          "comision_total": 19224.0,
           "envio_total": 999.6
         },
         "MLC2408945807": {
@@ -444,6 +444,28 @@
           "ingreso_bruto": 31270.0,
           "comision_total": 5941.0,
           "envio_total": 2601.0
+        }
+      }
+    },
+    "2026-11-18": {
+      "unidades": 4,
+      "ingreso_bruto": 44238.0,
+      "comision_total": 8184.0,
+      "envio_total": 7698.8,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 3,
+          "ingreso_bruto": 33170.0,
+          "comision_total": 6302.0,
+          "envio_total": 6899.4
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 11068.0,
+          "comision_total": 1882.0,
+          "envio_total": 799.4
         }
       }
     }
