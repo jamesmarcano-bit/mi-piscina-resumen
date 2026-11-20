@@ -1,21 +1,21 @@
 {
-  "actualizado": "2026-11-19T21:12:31.273744+00:00",
+  "actualizado": "2026-11-20T20:56:45.972907+00:00",
   "productos": {
     "0039KTCMM": {
       "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-      "unidades_mtd": 457,
-      "ordenes_mtd": 209,
-      "precio_promedio": 5924.1,
+      "unidades_mtd": 461,
+      "ordenes_mtd": 212,
+      "precio_promedio": 5943.4,
       "comision_pct_promedio": 19.18,
-      "envio_promedio_por_unidad": 1172.1
+      "envio_promedio_por_unidad": 1174.5
     },
     "8IN1": {
       "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
-      "unidades_mtd": 7,
-      "ordenes_mtd": 7,
-      "precio_promedio": 10526.0,
+      "unidades_mtd": 8,
+      "ordenes_mtd": 8,
+      "precio_promedio": 10593.8,
       "comision_pct_promedio": 17.0,
-      "envio_promedio_por_unidad": 2268.1
+      "envio_promedio_por_unidad": 2109.5
     },
     "MLC4111973712": {
       "titulo_ejemplo": "Maquina De Waffles Maker Antiadherente Negro",
@@ -59,11 +59,11 @@
     },
     "ELE-139": {
       "titulo_ejemplo": "Cepillo Secador Alisador De Pelo 3d Power Avocado/keratin",
-      "unidades_mtd": 3,
-      "ordenes_mtd": 3,
-      "precio_promedio": 17473.7,
+      "unidades_mtd": 4,
+      "ordenes_mtd": 4,
+      "precio_promedio": 18102.8,
       "comision_pct_promedio": 16.0,
-      "envio_promedio_por_unidad": 2723.1
+      "envio_promedio_por_unidad": 2892.3
     },
     "MLC2408946257": {
       "titulo_ejemplo": "Clarificante Para Piscina Ctx Pool Gel Crystal Water 90g",
