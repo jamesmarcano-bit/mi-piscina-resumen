@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "actualizado": "2026-11-19T21:12:32.731404+00:00",
+  "actualizado": "2026-11-20T20:56:47.132974+00:00",
   "dias": {
     "2026-10-31": {
       "unidades": 3,
@@ -470,17 +470,46 @@
       }
     },
     "2026-11-19": {
-      "unidades": 9,
-      "ingreso_bruto": 68510.0,
-      "comision_total": 13018.0,
-      "envio_total": 7194.6,
+      "unidades": 11,
+      "ingreso_bruto": 85740.0,
+      "comision_total": 16293.0,
+      "envio_total": 8793.4,
       "productos": {
         "0039KTCMM": {
           "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
-          "unidades": 9,
-          "ingreso_bruto": 68510.0,
-          "comision_total": 13018.0,
-          "envio_total": 7194.6
+          "unidades": 11,
+          "ingreso_bruto": 85740.0,
+          "comision_total": 16293.0,
+          "envio_total": 8793.4
+        }
+      }
+    },
+    "2026-11-20": {
+      "unidades": 4,
+      "ingreso_bruto": 46388.0,
+      "comision_total": 7993.0,
+      "envio_total": 8588.4,
+      "productos": {
+        "0039KTCMM": {
+          "titulo_ejemplo": "Clarificante Pool Gel Ctx-39 Manual Para Los Tamaños De Piscinas",
+          "unidades": 2,
+          "ingreso_bruto": 15330.0,
+          "comision_total": 2913.0,
+          "envio_total": 4188.8
+        },
+        "ELE-139": {
+          "titulo_ejemplo": "Cepillo Secador Alisador De Pelo 3d Power Avocado/keratin",
+          "unidades": 1,
+          "ingreso_bruto": 19990.0,
+          "comision_total": 3198.0,
+          "envio_total": 3400.0
+        },
+        "8IN1": {
+          "titulo_ejemplo": "Hub 8 En 1 Usb Tipo C Adaptador Tarjeta Sd Memoria Puertos Audio Sd Tf Usb 3.0 Salida Tipo C Y Usb 3 Plateado",
+          "unidades": 1,
+          "ingreso_bruto": 11068.0,
+          "comision_total": 1882.0,
+          "envio_total": 999.6
         }
       }
     }
